@@ -8,6 +8,6 @@
 ## Exercises
 
 <br>1 . Use this [tutorial](https://docs.oracle.com/javase/tutorial/getStarted/cupojava/unix.html) to create a java program using the Linux command line. Don't put the file in the /temp directory, put it in a folder under your home directory. You can use gedit instead of pico as your editor if you prefer.
-
+<br>2 . Run eclipse from the command line. Familiarise yourself with the IDE using the help menus: Help->Help Contents->Workbench User Guide. Create the HelloWorld program using Eclipse. 
 
 
