@@ -1,3 +1,13 @@
+
+# Week 2
+
+<br>1 . [Java Introduction](https://docs.google.com/presentation/d/1dsZd2c00zmYxtRmyCM6NK-2RxiIFhm7JzrNebpi7v5A/pub?start=false&loop=false&delayms=3000&slide=id.p10)
+
+## Exercises
+
+<br>1 . Create a project called "warmup" in Eclipse on Ygritte and complete the following [exercises.] (https://docs.google.com/document/d/1zcppr0POAaVqlQIxyX2rl1E50z53ZFqc4E88hB9IQFQ/edit?usp=drive_web)
+
+
 # Week 1
 
 <br>1 . [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing)
