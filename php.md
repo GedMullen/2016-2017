@@ -1,3 +1,16 @@
+
+# Week 2
+
+1 . [GitHub Is Your New CV](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
+<br>2 . [GitHub Home](https://github.com/)
+<br>3 . [Example Profile](https://github.com/marijnh)
+<br>4 . [GitHub CV Generator](http://resume.github.io/)
+
+##Exercises
+
+1 . Complete these [GitHub Exercises](https://docs.google.com/document/d/1CWRBnj2pL_RIDAdgzoiZjm_fWHf_yznotVnGvG21lyk/edit?usp=sharing)
+
+
 # Week 1
 
 <br> 1 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
