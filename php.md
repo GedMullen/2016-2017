@@ -1,7 +1,6 @@
 # Week 2 - Thursday
 
 <br>1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
-
 <br>2 . [Select](http://www.w3schools.com/sql/sql_select.asp)
 <br>3 . [Where](http://www.w3schools.com/sql/sql_where.asp)
 <br>4 . [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
