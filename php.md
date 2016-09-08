@@ -12,6 +12,32 @@
 mysql -t -u student < wk2.sql
 ```
 
+.screen_layout
+
+```
+split -v
+screen -t s1
+focus
+screen -t s2
+split
+focus
+screen -t s3
+focus
+```
+.screenrc
+```
+defscrollback 10000
+source .screen_layout
+layout save def
+startup_message off
+# switch windows with F3 (prev) and F4 (next)
+bindkey "^[OR" prev
+bindkey "^[OS" next
+# mouse tracking allows to switch region focus by clicking
+mousetrack on
+```
+
+
 ##Exercises
 
 Create a directory on Ygritte called "sqlexercises" and create a file in that directory called "wk2.sql". Write SQL in wk3.sql to output the information from the employees database detailed in the tasks below. Once you have successfully completed each of the tasks use [comments](http://dev.mysql.com/doc/refman/5.7/en/comments.html) to comment out the SQL commands you have completed before moving on to the next task (don't delete the code you have completed).
