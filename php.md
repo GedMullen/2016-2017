@@ -41,7 +41,8 @@ Installing X2GO on Ubuntu
 ```
 sudo add-apt-repository ppa:x2go/stable
 sudo apt-get update
-sudp apt-get install x2goclient
+sudo apt-get install x2goclient
+
 ```
 
 ##Exercises
