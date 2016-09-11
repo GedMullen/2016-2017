@@ -1,4 +1,49 @@
 
+# Week 3
+
+<br> 1 . [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
+<br> 2 . Linux editors [vim](http://vim.rtorr.com/), [nano](http://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/) and [gedit](https://en.wikipedia.org/wiki/Gedit)
+<br>3 . [Oracle Certified Associate Java 7 Programmer 1](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-803&p_org_id=&lang=)
+<br>4 . [OCA Java 7 Book](http://www.amazon.co.uk/OCA-Java-Programmer-Certification-Guide/dp/1617291048)
+
+
+.screen_layout
+
+```
+split -v
+screen -t s1
+focus
+screen -t s2
+split
+focus
+screen -t s3
+focus
+```
+.screenrc
+```
+defscrollback 10000
+source .screen_layout
+layout save def
+startup_message off
+# switch windows with F3 (prev) and F4 (next)
+bindkey "^[OR" prev
+bindkey "^[OS" next
+# mouse tracking allows to switch region focus by clicking
+mousetrack on
+```
+Installing X2GO on Ubuntu
+
+```
+sudo add-apt-repository ppa:x2go/stable;sudo apt-get update;sudo apt-get install x2goclient
+
+```
+## Exercises
+
+<br>1 . Complete week 2 exercises. 
+<br>2 . Start the Java Foundations course in [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
+
+ 
+
 # Week 2
 
 <br>1 . [Java Introduction](https://docs.google.com/presentation/d/1dsZd2c00zmYxtRmyCM6NK-2RxiIFhm7JzrNebpi7v5A/pub?start=false&loop=false&delayms=3000&slide=id.p10)
