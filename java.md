@@ -6,8 +6,7 @@
 <br>3 . [Oracle Certified Associate Java 7 Programmer 1](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-803&p_org_id=&lang=)
 <br>4 . [OCA Java 7 Book](http://www.amazon.co.uk/OCA-Java-Programmer-Certification-Guide/dp/1617291048)
 
-
-.screen_layout
+<br>5 .screen_layout
 
 ```
 split -v
@@ -18,8 +17,7 @@ split
 focus
 screen -t s3
 focus
-```
-.screenrc
+```<br>6 .screenrc
 ```
 defscrollback 10000
 source .screen_layout
@@ -31,7 +29,7 @@ bindkey "^[OS" next
 # mouse tracking allows to switch region focus by clicking
 mousetrack on
 ```
-Installing X2GO on Ubuntu
+<br>7 . Installing X2GO on Ubuntu
 
 ```
 sudo add-apt-repository ppa:x2go/stable;sudo apt-get update;sudo apt-get install x2goclient
