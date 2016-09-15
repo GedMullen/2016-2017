@@ -1,7 +1,10 @@
 # Week 3 - Thursday
 
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
-
+<br> 2 . Copying bootstrap to your project directory:
+```
+cp -r /home/share/bootstrap/* .
+```
 
 # Week 3
 
