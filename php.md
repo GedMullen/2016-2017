@@ -1,3 +1,8 @@
+# Week 3 - Thursday
+
+<br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
+
+
 # Week 3
 
 <br> 1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
