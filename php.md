@@ -1,7 +1,11 @@
 # Week 3 - Thursday
 
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
-<br> 2 . Copying bootstrap to your project directory:
+
+<br> 2 . [HTML Forms](http://www.w3schools.com/html/html_forms.asp)
+<br> 3 . [HTML Tables](http://www.w3schools.com/html/html_tables.asp)
+<br> 4 . [Bootstrap](http://www.w3schools.com/bootstrap/)
+<br> 5 . Copying bootstrap to your project directory:
 ```
 cp -r /home/share/bootstrap/* .
 ```
