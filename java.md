@@ -2,7 +2,7 @@
 # Week 4
 
 <br>1 . [Java Documentation Overview](http://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html)
-<br>2 . [I/O From The Command LINE](https://docs.oracle.com/javase/tutorial/essential/io/cl.html)
+<br>2 . [I/O From The Command Line](https://docs.oracle.com/javase/tutorial/essential/io/cl.html)
 
 ## Exercises 
 
