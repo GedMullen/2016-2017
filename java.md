@@ -1,4 +1,16 @@
 
+# Week 4
+
+<br>1 . [Java Documentation Overview](http://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html)
+<br>2 . [I/O From The Command LINE](https://docs.oracle.com/javase/tutorial/essential/io/cl.html)
+
+## Exercises 
+
+<br>1 . Implement the verify() and change() methods in the command line tutorial above to verify the password against an array of three possible existing passwords. The change() method should update the array with the new password. 
+<br>2 . Create a new Menu class that displays a menu to the user. Provide a menu item for the user to change their password by using the code you wrote for Exercise 1. Also create menu items that allow the user to run the code you created in previous week's exercises. 
+<br>3 . Modify the verify() and change() methods above to check the password for a given login id. 
+<br>4 . Change your code so that only a user called "admin" can change their password. Do not show the change password menu item to users that are not admin. 
+
 # Week 3
 
 <br> 1 . [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
