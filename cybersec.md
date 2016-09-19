@@ -9,4 +9,5 @@ http://localhost:8???/WebGoat/
 ```
 https://github.com/WebGoat/WebGoat/releases/download/7.0.1/webgoat-container-7.0.1-war-exec.jar
 
+http://www.information-age.com/how-to-survive-a-denial-of-service-attack-284366/
 
