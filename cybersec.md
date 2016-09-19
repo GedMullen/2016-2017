@@ -17,3 +17,5 @@ http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/
 
 
 http://www.w3schools.com/sql/
+
+https://www.owasp.org/index.php/WebScarab_Getting_Started
