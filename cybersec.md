@@ -11,3 +11,9 @@ https://github.com/WebGoat/WebGoat/releases/download/7.0.1/webgoat-container-7.0
 
 http://www.information-age.com/how-to-survive-a-denial-of-service-attack-284366/
 
+
+http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/
+
+
+
+http://www.w3schools.com/sql/
