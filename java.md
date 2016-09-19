@@ -3,7 +3,7 @@
 
 <br>1 . [Java Documentation Overview](http://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html)
 <br>2 . [I/O From The Command Line](https://docs.oracle.com/javase/tutorial/essential/io/cl.html)
-<br>2 . [Modified Password.java]((https://gist.github.com/GedMullen/5f5b73758d0f2cfeac56a5a90e88d5e8)
+<br>3 . [Modified Password.java](https://gist.github.com/GedMullen/5f5b73758d0f2cfeac56a5a90e88d5e8)
 
 ## Exercises 
 
