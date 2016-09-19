@@ -1,3 +1,9 @@
+# Week 4
+
+<br> 1 . Turning off code completion for PHP in Eclipse:
+
+Window->Preferences->PHP->Editor->Content Assist->Uncheck Enable Auto Activation
+
 # Week 3 - Thursday
 
 <br> 1 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
