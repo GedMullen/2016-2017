@@ -11,4 +11,7 @@ java -jar webgoat-container-7.0.1-war-exec.jar
 http://localhost:8080/WebGoat/
 ```
 
+## Exercise
 
+1 . Choose one of the [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/) and write a short report (500 words) describing the attack. Include information (if available) such as who carried out the attack, why they did it and what effect the attack had on the website or the server targeted. Was the exploit preventable? Search for other articles related to the attack and reference them in your report. 
+ 
