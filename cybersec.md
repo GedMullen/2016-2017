@@ -7,6 +7,7 @@
 <br>5 . [SQL Tutorial](http://www.w3schools.com/sql/)
 <br>6 . [Web Scarab](https://www.owasp.org/index.php/WebScarab_Getting_Started)
 ```
+wget https://github.com/WebGoat/WebGoat/releases/download/7.0.1/webgoat-container-7.0.1-war-exec.jar
 java -jar webgoat-container-7.0.1-war-exec.jar 
 http://localhost:8080/WebGoat/
 ```
