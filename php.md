@@ -6,6 +6,7 @@ Window->Preferences->PHP->Editor->Content Assist->Uncheck Enable Auto Activation
 ```
 <br> 2 . [PHP Documentation](http://www.php.net/)
 <br> 3 . [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1)
+<br> 4 . [betged.sql](https://gist.github.com/GedMullen/84e27db349b477822fbb14b431a05f6f)
 ##Exercises
 <br> 1 . Modify the [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1) to turn it into a website that records customer bets. Record the bet description, odds and amount (demonstration will be provided). You will need to create a new SQL script to modify the customers database. Base it on [this conceptual diagram](https://drive.google.com/file/d/0B-CFaefA1v4RbkpXaG5GSWNrWjQ/view?usp=sharing).
 
