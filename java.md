@@ -1,4 +1,14 @@
 
+# Week 5
+
+<br>1 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+<br>2 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
+<br>3 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+
+## Exercises
+
+<br>1 . (Group) Create a file on Ygritte called object.txt and use it to document a real world object. List at least 6 behaviours (methods) and 6 states (fields) for your object. 
+
 # Week 4
 
 <br>1 . [Java Documentation Overview](http://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html)
