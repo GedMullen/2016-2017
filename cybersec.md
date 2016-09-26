@@ -1,3 +1,37 @@
+# Week 4
+
+<br>1 . [OWASP Top 10 Web Vulnerabilities](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013.pdf)
+<br>2 . [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
+<br>3 . [X2GO Client](https://drive.google.com/file/d/0B-CFaefA1v4RVWN5eFRlSV9YbVU/view?usp=sharing)
+<br>4 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
+
+
+## Exercises 
+<br>1 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
+<br>2 . Copy DVWA to your home drive using the following commands:
+
+```
+mkdir webapps
+cp -r /home/share/dvwa/. webapps
+```
+You will need to change the database name in the following file (once you have copied it):
+````
+DWA-1.9/config/config.inc.php
+````
+<br> 2 . Run a PHP web server in the webapps directory:
+
+```
+cd webapps/
+php -S localhost:8???
+```
+<br> 3 . Point firefox to the following URL:
+```
+http://localhost:8???/login.php
+```
+<br>2 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+
+
+
 # Week 3
 
 <br>1 . [Betfair DDos Attacks](http://www.information-age.com/how-to-survive-a-denial-of-service-attack-284366/)
