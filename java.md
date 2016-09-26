@@ -8,6 +8,7 @@
 ## Exercises
 
 <br>1 . (Group) Create a file on Ygritte called object.txt and use it to document a real world object. List at least 6 behaviours (methods) and 6 states (fields) for your object. 
+<br>2 . For each of the tutorials above create an Eclipse project on Ygritte and run the code provided by the tutorials and complete any exercises provided. 
 
 # Week 4
 
