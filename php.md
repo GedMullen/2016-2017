@@ -11,9 +11,6 @@ cp -r . <path to your backups directory>
 ##Exercises
 <br>1 . Make sure you modify the ```datatbase.php``` and ```sql``` files in the tutorials to point to your own database. Make sure you can run the tutorials in your own environments.
 <br>2 . Modify the "addbets" tutorial so that when a customer is viewed a CRUD grid appears for their bets. Add functionality to add, update and delete a bet.   
-
-Modify the [PHP CRUD Tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1) to turn it into a website that records customer bets. Record the bet description, odds and amount (demonstration will be provided). You will need to create a new SQL script to modify the customers database. Base it on [this conceptual diagram](https://drive.google.com/file/d/0B-CFaefA1v4RbkpXaG5GSWNrWjQ/view?usp=sharing).
-
 # Week 4
 <br>1 . Turning off code completion for PHP in Eclipse:
 ```
