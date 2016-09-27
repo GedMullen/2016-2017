@@ -17,7 +17,7 @@ cp -r /home/share/dvwa/. webapps
 ```
 You will need to change the database name in the following file (once you have copied it):
 ````
-DWA-1.9/config/config.inc.php
+gedit webapps/DWA-1.9/config/config.inc.php
 ````
 <br> 4 . Run a PHP web server in the webapps directory:
 
