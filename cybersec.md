@@ -22,7 +22,8 @@ gedit webapps/DWA-1.9/config/config.inc.php
 <br> 4 . Run a PHP web server in the webapps directory:
 
 ```
-cd webapps/
+cd 
+cd webapps/DWA-1.9
 php -S localhost:8???
 ```
 <br>5 . Point firefox to the following URL:
