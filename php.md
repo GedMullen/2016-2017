@@ -1,3 +1,13 @@
+# Week 5 - Thursday
+<br>1 . [PHP Session Tutorial](http://www.w3schools.com/php/php_sessions.asp)
+<br>2 . [User Registration And Login Example](http://www.codingcage.com/2015/01/user-registration-and-login-script-using-php-mysql.html)
+##Exercises
+<br>1 . Complete tuesdays exercises.
+<br>2 . Complete the [PHP Session Tutorial](http://www.w3schools.com/php/php_sessions.asp).
+<br>3 . Copy and run the [User Registration And Login Example](http://www.codingcage.com/2015/01/user-registration-and-login-script-using-php-mysql.html)
+
+
+
 # Week 5
 <br>1 . Backing up your code to a backups directory:
 ```
