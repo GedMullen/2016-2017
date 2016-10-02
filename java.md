@@ -1,23 +1,25 @@
 
-# Week 5
+# Week 6
+<br>1 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+<br>2 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
+<br>3 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
+<br>4 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
 
+# Week 5
 <br>1 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 <br>2 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
 <br>3 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
 
 ## Exercises
-
 <br>1 . (Group) Create a file on Ygritte called object.txt and use it to document a real world object. List at least 6 behaviours (methods) and 6 states (fields) for your object. 
 <br>2 . For each of the tutorials above create an Eclipse project on Ygritte and run the code provided by the tutorials and complete any exercises provided. 
 
 # Week 4
-
 <br>1 . [Java Documentation Overview](http://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html)
 <br>2 . [I/O From The Command Line](https://docs.oracle.com/javase/tutorial/essential/io/cl.html)
 <br>3 . [Modified Password.java](https://gist.github.com/GedMullen/5f5b73758d0f2cfeac56a5a90e88d5e8)
 
 ## Exercises 
-
 <br>1 . Implement the verify() and change() methods in the command line tutorial above to verify the password against an array of three possible existing passwords. The change() method should update the array with the new password. 
 <br>2 . Create a new Menu class that displays a menu to the user. Provide a menu item for the user to change their password by using the code you wrote for Exercise 1. Also create menu items that allow the user to run the code you created in previous week's exercises. 
 <br>3 . Modify the verify() and change() methods above to check the password for a given login id. 
