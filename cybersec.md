@@ -1,3 +1,22 @@
+# Week 5
+
+
+<br>1 . [SQL Tutorial](http://www.w3schools.com/sql/)
+<br>2 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
+<br>3 . [OWASP Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+<br>4 . Installing ZAP: 
+```
+mkdir zap
+cd zap
+cp /home/share/zap/ZAP_2.5.0_Linux.tar.gz .
+tar -zxvf ZAP_2.5.0_Linux.tar.gz
+./zap.sh
+```
+##Exercises 
+<br>1 . Introduce yourself to the concept of SQL programming by spending 20 minutes on the initial exercises in this [SQL Tutorial](http://www.w3schools.com/sql/)
+<br>2 . Run DVWA and complete these [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api) 
+<br>3 . Install ZAP using the instructions above. 
+
 # Week 4
 
 <br>1 . [OWASP Top 10 Web Vulnerabilities](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013.pdf)
@@ -17,13 +36,13 @@ cp -r /home/share/dvwa/. webapps
 ```
 You will need to change the database name in the following file (once you have copied it):
 ````
-gedit webapps/DWA-1.9/config/config.inc.php
+gedit webapps/DVWA-1.9/config/config.inc.php
 ````
 <br> 4 . Run a PHP web server in the webapps directory:
 
 ```
 cd 
-cd webapps/DWA-1.9
+cd webapps/DVWA-1.9
 php -S localhost:8???
 ```
 <br>5 . Point firefox to the following URL:
