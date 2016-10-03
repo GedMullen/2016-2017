@@ -4,7 +4,9 @@
 <br>2 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
 <br>3 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
 <br>4 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
-
+```
+soffice /home/share/java/OverridingPresentation.odp
+```
 # Week 5
 <br>1 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 <br>2 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
