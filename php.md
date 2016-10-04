@@ -1,4 +1,10 @@
-https://drive.google.com/file/d/0B-CFaefA1v4RbDVCQlp3bEFjams/view?usp=sharing
+#Week 6
+
+<br>1 . [FileZilla](https://drive.google.com/file/d/0B-CFaefA1v4RbDVCQlp3bEFjams/view?usp=sharing)
+<br>2 . Assessments:
+```
+/home/share/assessments/php
+``` 
 
 # Week 5 - Thursday
 <br>1 . [PHP Session Tutorial](http://www.w3schools.com/php/php_sessions.asp)
