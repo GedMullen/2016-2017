@@ -1,6 +1,6 @@
 # Week 5
 
-
+<br>1 . [Facebook Outage](http://www.bbc.co.uk/news/world-us-canada-34383655)
 <br>1 . [SQL Tutorial](http://www.w3schools.com/sql/)
 <br>2 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
 <br>3 . [OWASP Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
