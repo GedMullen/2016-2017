@@ -6,6 +6,8 @@
 cd /home/share/assessments/php
 evince lo1.pdf
 ``` 
+<br>3 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+
 
 # Week 5 - Thursday
 <br>1 . [PHP Session Tutorial](http://www.w3schools.com/php/php_sessions.asp)
