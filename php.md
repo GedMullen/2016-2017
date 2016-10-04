@@ -1,9 +1,10 @@
 #Week 6
 
 <br>1 . [FileZilla](https://drive.google.com/file/d/0B-CFaefA1v4RbDVCQlp3bEFjams/view?usp=sharing)
-<br>2 . Assessments:
+<br>2 . Assessments - due 10.11.16 @11pm:
 ```
-/home/share/assessments/php
+cd /home/share/assessments/php
+evince lo1.pdf
 ``` 
 
 # Week 5 - Thursday
