@@ -7,6 +7,13 @@
 <br>5 . [Inheritance Group Presentation](https://docs.google.com/presentation/d/1RO0367u4KIo2GIjcRQKKBNhD9F9eFKOS2XFRVURtmf0/edit?usp=sharing)
 <br>6 . [Overriding Group Presentation](https://docs.google.com/presentation/d/1uqAe0nmlPMXP7SI4eqT9z7R54RCMvW4nE335aq1DveY/edit?usp=sharing)
 
+## Exercises
+<br>1 . Complete the multiple choice questions created by the group:
+
+```
+vim /home/share/java/qs.txt
+```
+
 # Week 5
 <br>1 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 <br>2 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
