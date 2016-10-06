@@ -1,3 +1,9 @@
+#Week 6 - Thursday
+
+##Exercises
+<br>1 . Complete the [PHP Login Exercises](https://docs.google.com/document/d/1DtnOoUNieZOVxIXimgvxUESsfXNqj9evYXAZfAbyRi0/pub)
+<br>2 . Complete a first draft of your website design for your assessment.
+
 #Week 6
 
 <br>1 . [FileZilla](https://drive.google.com/file/d/0B-CFaefA1v4RbDVCQlp3bEFjams/view?usp=sharing)
