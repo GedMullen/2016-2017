@@ -18,6 +18,7 @@
 12. Redesign the Student class in section 3.4 so that the courses and grades array fields are encapsulated by a separate class called Unit. The Student class will then contain a Unit array field. Add two additional fields to the Unit class - attendance and effort. Like the grade field the attendance and effort fields should be in the range 0-100. Add the accessor methods for these new fields.
 13. Add a constant class field called PASS_MARK to the Unit class and set it to 60.
 14. Create a isPassed() method to the Unit class that averages the grade, attendance and effort fields and then compares the average to PASS_MARK and returns the value of true or false.  
+
 # Week 6
 <br>1 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 <br>2 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
