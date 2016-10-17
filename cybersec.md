@@ -1,4 +1,19 @@
-[DVWA tar](https://drive.google.com/open?id=0B-CFaefA1v4Rc3NVSExGeGItd2M)
+#Week 6
+<br>1 . [XSS Example](https://en.wikipedia.org/wiki/Samy_(computer_worm))
+<br>2 . [XSS Tutorial](http://excess-xss.com/)
+<br>3 . Install DVWA on Kali - Start MySql:
+```
+sudo /etc/init.d/mysqld start
+```
+<br>4 . Clone, cofigure and run DVWA:
+```
+git clone https://github.com/ethicalhack3r/DVWA.git
+cd DVWA
+gedit config/config.inc.php; #(change the p@ssword value to empty string)
+php -S localhost:8???
+```
+##Exercises
+<br> 1 . [XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
 
 # Week 5
 
