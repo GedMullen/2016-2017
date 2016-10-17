@@ -1,5 +1,8 @@
 
 # Week 7
+
+**UCAS Workshop 31.10.16 @12pm in BF47**
+
 <br>1 . [Abstraction Tutorial](https://www.tutorialspoint.com/java/java_abstraction.htm)
 <br>2 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
 <br>3 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
