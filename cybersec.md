@@ -13,7 +13,7 @@ gedit config/config.inc.php; #(change the p@ssword value to empty string)
 php -S localhost:8???
 ```
 ##Exercises
-<br> 1 . [XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
+<br> 1 .Research the links in DVWA for XSS and the complete the [XSS Exercises](https://docs.google.com/document/d/1C3DhOaoUeo-tUU4v3I7xR39xtYOKZmRIe2P00hc4Rew/edit?usp=docslist_api)
 
 # Week 5
 
