@@ -3,7 +3,7 @@
 <br>2 . [XSS Tutorial](http://excess-xss.com/)
 <br>3 . Install DVWA on Kali - Start MySql:
 ```
-sudo /etc/init.d/mysqld start
+sudo /etc/init.d/mysql start
 ```
 <br>4 . Clone, cofigure and run DVWA:
 ```
