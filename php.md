@@ -1,6 +1,8 @@
 #Week 7
 <br>1 . Assessmnet instructions:
+```
 cat /home/share/assessments/php/readme.txt
+```
 <br>2 . Examples:
 ```
 /home/share/phpcrud/loginmysqli
