@@ -8,7 +8,7 @@
 ``` 
 ##Exercises
 <br>1 . Copy and run the "loginpdo" example to your own environment and make sure that it runs correctly for your own database. 
-<br>2 . Modify the "addbets" example PHP app to include a password for the customer. Create a defualt admin account in your sql script.  
+<br>2 . Modify the "addbets" example PHP app to include a password for the customer. Create a default admin account in your sql script.  
 <br>3 . Add a login screen. Admin should redirect to the index page. Other (no admin) users should redirect to the "read.php".
 <br>4 . If the user clicks "register" then redirect them to the create.php page. 
 
