@@ -1,5 +1,7 @@
 #Week 7
-<br>1 . Examples:
+<br>1 . Assessmnet instructions:
+cat /home/share/assessments/php/readme.txt
+<br>2 . Examples:
 ```
 /home/share/phpcrud/loginmysqli
 /home/share/phpcrud/loginpdo
@@ -25,7 +27,7 @@
 <br>2 . Assessments - due 10.11.16 @11pm:
 ```
 cd /home/share/assessments/php
-evince lo1.pdf
+evince lo2.pdf
 ``` 
 <br>3 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
 
