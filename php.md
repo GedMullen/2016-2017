@@ -1,4 +1,5 @@
 #Week 7
+**UCAS Workshop 31.10.16 @12pm in BF47**
 <br>1 . Assessmnet instructions:
 ```
 cat /home/share/assessments/php/readme.txt
@@ -8,14 +9,18 @@ cat /home/share/assessments/php/readme.txt
 /home/share/phpcrud/loginmysqli
 /home/share/phpcrud/loginpdo
 /home/share/phpcrud/addpassword (locked)
+/home/share/phpcrud/betsiwithpassword (locked)
+/home/share/phpcrud/betswithsession (locked)
 
-``` 
+```
+<br>3 . [Sessions Tutorial](http://www.w3schools.com/php/php_sessions.asp) 
 ##Exercises
 <br>1 . Copy and run the "loginpdo" example to your own environment and make sure that it runs correctly for your own database. 
 <br>2 . Modify the "addbets" example PHP app to include a password for the customer. Create a default admin account in your sql script.  
 <br>3 . Add a login screen. Admin should redirect to the index page. Other (non admin) users should redirect to the "read.php".
 <br>4 . If the user clicks "register" then redirect them to the create.php page. 
-
+<br>5 . Stop the user from accessing the "customers.php" unless they are logged in as admin (see [Sessions Tutorial](http://www.w3schools.com/php/php_sessions.asp)).
+<br>6 . Stop the user from accessing the "read.php" page unless they have logged in as a normal user.
 
 #Week 6 - Thursday
 
