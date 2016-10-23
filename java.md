@@ -1,3 +1,11 @@
+# Week 8
+<br>1 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
+<br>2 . [Polymorphism Image](https://drive.google.com/file/d/0B-CFaefA1v4RaFFSeUpPbkpKVDQ/view?usp=docslist_api)
+<br>3 . [polymorphism definition](http://whatis.techtarget.com/definition/polymorphism)
+<br>4 . [polymorphism tutorial](https://docs.oracle.com/javase/tutorial/java/iandi/polymorphism.html)
+<br>5 . [Red Dwarf Polymorph Episode] (http://reddwarf.wikia.com/wiki/RD:_Polymorph)
+##Exercises
+1. Complete the group exercise on Polymorphism.
 
 # Week 7
 
