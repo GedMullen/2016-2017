@@ -1,3 +1,4 @@
+<br>1 . [SQLmap](http://www.binarytides.com/sqlmap-hacking-tutorial/)
 #Week 6
 <br>1 . [XSS Example](https://en.wikipedia.org/wiki/Samy_(computer_worm))
 <br>2 . [XSS Tutorial](http://excess-xss.com/)
