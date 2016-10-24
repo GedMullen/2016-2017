@@ -1,5 +1,5 @@
 #Week 7
- <br>1 . [DNS DDOS Attack]((http://www.independent.co.uk/life-style/gadgets-and-tech/news/netflix-twitter-internet-down-not-working-broken-paypal-ebay-facebook-instagram-a7374506.html)
+ <br>1 . [DNS DDOS Attack](http://www.independent.co.uk/life-style/gadgets-and-tech/news/netflix-twitter-internet-down-not-working-broken-paypal-ebay-facebook-instagram-a7374506.html)
 <br>2 . [SQLmap](http://www.binarytides.com/sqlmap-hacking-tutorial/)
 ```
 git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
