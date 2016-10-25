@@ -3,19 +3,24 @@
 <br>2 . [sqlmap](http://sqlmap.org)
 <br>3 . [sqlmap Tutorial](http://www.binarytides.com/sqlmap-hacking-tutorial/)
 ```
-git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
-cp -r /home/share/phpcrud/sqli/ .
-cd sqli
+git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev #download sqlmap
+cp -r /home/share/phpcrud/sqli/ . #copy over example vulnerable web app
+cd sqli 
 gedit customers.sql #change ged to your username
-php -S localhost:8??? #run in another terminal
-cd ../sqlmap-dev
+mysql -u student < customers.sql #set up your own database
+php -S localhost:8??? #run the web server in another terminal
+cd ../sqlmap-dev # cd into the sqlmap directory to run commands
 python sqlmap.py -u "http://localhost:8???/read.php?id=1" 
 python sqlmap.py -u "http://localhost:8???/read.php?id=1" --dbs
 python sqlmap.py -u "http://localhost:8???/read.php?id=1" --tables -D rab
 ```
 ##Exercise
-Investigate the [sqlmap](http://sqlmap.org) documentation and identify other exploits on the URL provided.
 
+Assume you are a hacker attempting to steal information from the database Investigate the [sqlmap](http://sqlmap.org) documentation and identify other exploits on the URL provided. What is the best exploit you can find (don't try to modify or delete the database)? Document the exploit in a file called sqlmap.txt. There will be a really expensive prize for the best exploit identified. 
+```
+gedit sqlmap.txt
+```
+ 
 #Week 6
 <br>1 . [XSS Example](https://en.wikipedia.org/wiki/Samy_(computer_worm))
 <br>2 . [XSS Tutorial](http://excess-xss.com/)
