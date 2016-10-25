@@ -16,7 +16,7 @@ python sqlmap.py -u "http://localhost:8???/read.php?id=1" --tables -D rab
 ```
 ##Exercise
 
-Assume you are a hacker attempting to steal information from the database. Investigate the [sqlmap](http://sqlmap.org) documentation and identify other exploits on the URL provided. What is the best exploit you can find (don't try to modify or delete the database)? Document the exploit in a file called sqlmap.txt. There will be a really expensive prize for the best exploit identified. 
+Assume you are a hacker attempting to steal information from the database. Investigate the [sqlmap](http://sqlmap.org) documentation and identify other exploits on the URL provided. What is the best exploit you can find? Don't try to modify or delete the database - your goal is to steal the information without the owner of the database knowing. Document the exploit in a file called sqlmap.txt. There will be a really expensive prize for the best exploit identified. 
 ```
 gedit sqlmap.txt
 ```
