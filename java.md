@@ -7,7 +7,11 @@
 <br>6 . [Red Dwarf Polymorph Episode] (http://reddwarf.wikia.com/wiki/RD:_Polymorph)
 ##Exercises
 1. Complete the group exercise on Polymorphism.
-
+<br>2 . Complete the following group questions:
+```
+/home/share/java/oopmc3qs.txt
+```
+ 
 # Week 7
 
 **UCAS Workshop 31.10.16 @12pm in BF47**
