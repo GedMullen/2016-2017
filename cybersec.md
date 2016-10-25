@@ -7,6 +7,7 @@ git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev #download sqlma
 cp -r /home/share/phpcrud/sqli/ . #copy over example vulnerable web app
 cd sqli 
 gedit customers.sql #change ged to your username
+gedit database.php #change ged to your username
 mysql -u student < customers.sql #set up your own database
 php -S localhost:8??? #run the web server in another terminal
 cd ../sqlmap-dev # cd into the sqlmap directory to run commands
