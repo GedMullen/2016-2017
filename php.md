@@ -1,6 +1,6 @@
 #Week 8
 
-<br>3 . [PHP Coding Standards](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+<br>1 . [PHP Coding Standards](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
 
 #Week 7
 **UCAS Workshop 31.10.16 @12pm in BF47**
