@@ -2,7 +2,9 @@
 1. [Java ArrayList](http://www.tutorialspoint.com/java/java_arraylist_class.htm)
 2. [Java Arrays](http://www.tutorialspoint.com/java/java_arrays.htm)
 3. [Java Dates And Times](http://www.tutorialspoint.com/java/java_date_time.htm)
-
+```
+/home/share/java/oopbasics/v1/Transaction.java
+```
 ## Exercises
 1. Create a project in Eclipse called "datesandarrays" and complete the tutorials above. Make sure you can run the code in the tutorials successfully in eclipse.
 2. Make sure you create an OOPBasics project in Eclipse and continue with the [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html) tutorial. Create the classes in this tutorial as instructed.
