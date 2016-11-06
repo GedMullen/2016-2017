@@ -1,10 +1,9 @@
-# Week 9
+# Week 10
 
 <br>1 . [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
 <br>2 . [Use Case Example - ATM](http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html)
-<br>3 . [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
-<br>4 . [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
-
+<br>3 . [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
+<br>4 . [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
 ## Exercises
 
 1. Think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a file in Ygritte called checkout.txt in that directory to document your use case scenario. Make sure you include the precondition and trigger for the scenario.
