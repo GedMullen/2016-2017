@@ -1,22 +1,22 @@
 #Week 9
 
-[DDos Attack Articles](https://www.ddosattacks.net/)
-[hping](http://www.hping.org/)
-[hping3 Examples](http://0daysecurity.com/articles/hping3_examples.html)
-[iptables](https://support.rackspace.com/how-to/introduction-to-iptables/)
-[iptables v hping3](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32)
+<br>1 . [DDos Attack Articles](https://www.ddosattacks.net/)
+<br>2 . [hping](http://www.hping.org/)
+<br>3 . [hping3 Examples](http://0daysecurity.com/articles/hping3_examples.html)
+<br>4 . [iptables](https://support.rackspace.com/how-to/introduction-to-iptables/)
+<br>5 . [iptables v hping3](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32)
 
 ##Exercise
 
 **Using hping3 with iptables**
 
-Follow the hping3 and iptables tutorials above. 
-Clone your Kali virtualbox machine. 
-Change the machine name, IP address and MAC address of the clone.
-Use ifconfig and ping to make sure that the two machines can connect.  
-Run DVWA on the clone.
-Use the hping tutorials above to issue a DDos attack on DVWA on the clone.
-Use iptables to defend against the DDos attacks (see [examples](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32) )
+<br>Follow the hping3 and iptables tutorials above. 
+<br>Clone your Kali virtualbox machine. 
+<br>Change the machine name, IP address and MAC address of the clone.
+<br>Use ifconfig and ping to make sure that the two machines can connect.  
+<br>Run DVWA on the clone.
+<br>Use the hping tutorials above to issue a DDos attack on DVWA on the clone.
+<br>Use iptables to defend against the DDos attacks (see [examples](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32) )
  
 
 
