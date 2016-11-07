@@ -1,3 +1,26 @@
+#Week 9
+
+[DDos Attack Articles](https://www.ddosattacks.net/)
+[hping](http://www.hping.org/)
+[hping3 Examples](http://0daysecurity.com/articles/hping3_examples.html)
+[iptables](https://support.rackspace.com/how-to/introduction-to-iptables/)
+[iptables v hping3](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32)
+
+##Exercise
+
+**Using hping3 with iptables**
+
+Follow the hping3 and iptables tutorials above. 
+Clone your Kali virtualbox machine. 
+Change the machine name, IP address and MAC address of the clone.
+Use ifconfig and ping to make sure that the two machines can connect.  
+Run DVWA on the clone.
+Use the hping tutorials above to issue a DDos attack on DVWA on the clone.
+Use iptables to defend against the DDos attacks (see [examples](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32) )
+ 
+
+
+
 #Week 8
 <br>1 . [Windows Code Injection](http://www.ibtimes.co.uk/all-windows-versions-potentially-exposed-cyberattacks-thanks-new-code-injection-atom-bombing-1588719)
 <br>2 . Last week review:
