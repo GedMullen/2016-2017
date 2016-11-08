@@ -1,10 +1,12 @@
 #Week 9
 
 <br>1 . [DDos Attack Articles](https://www.ddosattacks.net/)
-<br>2 . [hping](http://www.hping.org/)
-<br>3 . [hping3 Examples](http://0daysecurity.com/articles/hping3_examples.html)
-<br>4 . [iptables](https://support.rackspace.com/how-to/introduction-to-iptables/)
-<br>5 . [iptables v hping3](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32)
+<br>2 . [DDos Attack Map](http://www.digitalattackmap.com/)
+<br>3 . [Norse Attack Map](http://www.digitalattackmap.com/)
+<br>4 . [hping](http://www.hping.org/)
+<br>5 . [hping3 Examples](http://0daysecurity.com/articles/hping3_examples.html)
+<br>6 . [iptables](https://support.rackspace.com/how-to/introduction-to-iptables/)
+<br>7 . [iptables v hping3](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32)
 
 ##Exercise
 
