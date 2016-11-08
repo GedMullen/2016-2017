@@ -12,12 +12,13 @@
 
 **Using hping3 with iptables**
 
-<br>Follow the hping3 and iptables tutorials above. 
-<br>Clone your Kali virtualbox machine. 
-<br>Change the machine name, IP address and MAC address of the clone.
-<br>Use ifconfig and ping to make sure that the two machines can connect. <br>Run DVWA on the clone.
-<br>Use the hping tutorials above to issue a DDos attack on DVWA on the clone.
-<br>Use iptables to defend against the DDos attacks (see [examples](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32) )
+<br>1 .Follow the hping3 and iptables tutorials above. 
+<br>2 .Clone your Kali virtualbox machine. 
+<br>3 .Change the network name, IP address and MAC address of the clone.
+<br>4 .Use ifconfig and ping to make sure that the two machines can connect. 
+<br>5 . Run DVWA on the clone.
+<br>6 . Use the hping tutorials above to issue a DDos attack on DVWA on the clone.
+<br>7 . Use iptables to defend against the DDos attacks (see [examples](http://blog.sevagas.com/?Iptables-firewall-versus-nmap-and-hping3-32) )
  
 
 
