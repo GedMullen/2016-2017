@@ -1,3 +1,14 @@
+# Week 11
+
+1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
+<br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
+<br>3 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+
+## Exercises
+
+1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create a CRC card file on Ygritte. Name the file crc.txt.
+<br>2. (Group)Create CRC cards from the checkout use case scenario you created last week.
+
 # Week 10
 
 <br>1 . [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
