@@ -3,6 +3,7 @@
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
 <br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
 <br>3 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+<br>4 . [Example CRC Answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing)
 
 ## Exercises
 
@@ -134,71 +135,6 @@ vim /home/share/java/qs.txt
 13. Add a constant class field called PASS_MARK to the Unit class and set it to 60.
 14. Create a isPassed() method to the Unit class that averages the grade, attendance and effort fields and then compares the average to PASS_MARK and returns the value of true or false.  
 
-
-
-# Week 8
-<br>1 . [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
-<br>2 . [Polymorphism Image](https://drive.google.com/file/d/0B-CFaefA1v4RaFFSeUpPbkpKVDQ/view?usp=docslist_api)
-<br>3 . [Polymorphism Definition](http://whatis.techtarget.com/definition/polymorphism)
-<br>4 . [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
-<br>5 . [Polymorphism Tutorial 2](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
-<br>6 . [Red Dwarf Polymorph Episode] (http://reddwarf.wikia.com/wiki/RD:_Polymorph)
-##Exercises
-1. Complete the group exercise on Polymorphism.
-<br>2 . Complete the following group questions:
-```
-/home/share/java/oopmc3qs.txt
-```
- 
-# Week 7
-
-**UCAS Workshop 31.10.16 @12pm in BF47**
-
-<br>1 . [Abstraction Tutorial](https://www.tutorialspoint.com/java/java_abstraction.htm)
-<br>2 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
-<br>3 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
-##Exercises
-```
-/home/share/java/oopmc2.txt
-```
-1. Complete the group exercises on Abstraction and Encapsulation.
-2. Create a new project in Eclipse on Ygritte called OOPBasics and complete the [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html) tutorial. Create the classes in this tutorial as instructed.
-3. You have been tasked with modifying the Account class in Example 3.1 in the tutorial above to include a record of transactions associated with the account. An extra method called printStatement() needs to be added to the class so that a statement of transactions can be issued as required. The method should list the date, description and amount of the transaction with an updated balance amount. Hint: you will need to modify the implementation of the credit() and debit() methods and store your transaction history in an Array or an ArrayList. The date of the transaction should be derived (i.e. set it to current time) and not passed as a parameter. Modify the TestAccount class to test the modified code. Create at least 10 transactions with a mixture of credit and debit.
-4. Modify the Account class to allow customers to withdraw funds even if they do not have a positive balance. Create a method called hasBeenOverdrawn() that returns a value of true if the account has been overdrawn at any time. Create appropriate test code. 
-5. Create another method in the account class called printOverdrawnTransactions() that prints all the transactions that are associate with the Account that have resulted in a negative balance. Create appropriate test code.
-6. Create a shell script called checkoopbasics.sh in the bin folder of your OOPBasics project and add an entry into the script that runs your test code for exercises 3-5. Add entries into this shell script as you complete the exercies below. 
-7. Create an overloaded move() method in the ball class in section 3.2 that takes a direction string of the value "north","south","east" or "west" and a distance attribute and moves the ball in the required direction the required distance. Create appropriate test code.
-8. You have been asked to redesign the UML diagram in 3.3. Your modified design should change the Author class to have an array of Books as a field of the Author class. Use appropriate accessor methods. Remove the Author attribute from the Book class. Create appropriate test code.
-9. Add a printBooks() method to the Author class that will print a description of the books published by the author. Create appropriate test code.
-10. Add a printBooksOutOfStock() method to the Author class.
-11. Add a getMostExpensiveBook() method to the Author class.
-12. Redesign the Student class in section 3.4 so that the courses and grades array fields are encapsulated by a separate class called Unit. The Student class will then contain a Unit array field. Add two additional fields to the Unit class - attendance and effort. Like the grade field the attendance and effort fields should be in the range 0-100. Add the accessor methods for these new fields.
-13. Add a constant class field called PASS_MARK to the Unit class and set it to 60.
-14. Create a isPassed() method to the Unit class that averages the grade, attendance and effort fields and then compares the average to PASS_MARK and returns the value of true or false.  
-
-# Week 6
-<br>1 . [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
-<br>2 . [Overriding Tutorial](https://www.tutorialspoint.com/java/java_overriding.htm)
-<br>3 . [Encapsulation Tutorial](https://www.tutorialspoint.com/java/java_encapsulation.htm)
-<br>4 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
-<br>5 . [Inheritance Group Presentation](https://docs.google.com/presentation/d/1RO0367u4KIo2GIjcRQKKBNhD9F9eFKOS2XFRVURtmf0/edit?usp=sharing)
-<br>6 . [Overriding Group Presentation](https://docs.google.com/presentation/d/1uqAe0nmlPMXP7SI4eqT9z7R54RCMvW4nE335aq1DveY/edit?usp=sharing)
-
-## Exercises
-<br>1 . Complete the multiple choice questions created by the group:
-
-```
-vim /home/share/java/qs.txt
-```
-
-# Week 5
-<br>1 . [Oracle OO Tutorial](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-<br>2 . [Tutorials Point - Objects and Classes](http://www.tutorialspoint.com/java/java_object_classes.htm)
-<br>3 . [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
-
-## Exercises
-<br>1 . (Group) Create a file on Ygritte called object.txt and use it to document a real world object. List at least 6 behaviours (methods) and 6 states (fields) for your object. 
-<br>2 . For each of the tutorials above create an Eclipse project on Ygritte and run the code provided by the tutorials and complete any exercises provided. 
 
 # Week 4
 <br>1 . [Java Documentation Overview](http://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html)
