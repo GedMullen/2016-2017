@@ -1,7 +1,16 @@
+#Week 10 
+<br>1 .[Tesco Bank Hack](http://www.bbc.co.uk/news/technology-37974776)
+<br>2 .[The Dark Web Declassified](https://www.youtube.com/watch?v=pmjAyL2VYBA)
+<br>3 .[DDoS Attack Types](https://en.wikipedia.org/wiki/Denial-of-service_attack) 
+
+##Group Exercise
+<br>1 . Create a 10 minute presentation on a specific type of DDoS attack. How would a hacker engineer such an attack and what countermeasures can be used to stop the attack? 
+
+
 #Week 9
 
-<br>1 . [DDos Attack Articles](https://www.ddosattacks.net/)
-<br>2 . [DDos Attack Map](http://www.digitalattackmap.com/)
+<br>1 . [DDoS Attack Articles](https://www.ddosattacks.net/)
+<br>2 . [DDoS Attack Map](http://www.digitalattackmap.com/)
 <br>3 . [Norse Attack Map](http://www.digitalattackmap.com/)
 <br>4 . [hping](http://www.hping.org/)
 <br>5 . [hping3 Examples](http://0daysecurity.com/articles/hping3_examples.html)
