@@ -5,6 +5,10 @@
 #Exercise
 
 In your groups create single choice mulitple (4) choice questions on Ygritte in files called test1.txt, test2.txt etc...
+```
+cat /home/share/assessments/php/test1.txt
+```
+
 
 #Week 8
 
