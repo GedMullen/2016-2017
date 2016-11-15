@@ -1,7 +1,8 @@
 #Week 10 
 <br>1 .[Tesco Bank Hack](http://www.bbc.co.uk/news/technology-37974776)
 <br>2 .[The Dark Web Declassified](https://www.youtube.com/watch?v=pmjAyL2VYBA)
-<br>3 .[DDoS Attack Types](https://en.wikipedia.org/wiki/Denial-of-service_attack) 
+<br>3 . [DDoS Attack Articles](https://www.ddosattacks.net/)
+<br>4 .[DDoS Attack Types](https://en.wikipedia.org/wiki/Denial-of-service_attack) 
 
 ##Group Exercise
 <br>1 . Create a 10 minute presentation on a specific type of DDoS attack. How would a hacker engineer such an attack and what countermeasures can be used to stop the attack? 
