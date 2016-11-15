@@ -1,3 +1,11 @@
+#Week 11
+
+[LO1 Revision Sheet](https://drive.google.com/open?id=0B-CFaefA1v4RaWNYbnRUdXpHSUFZb2g1SXE4M1kyX2k0WTVv)
+
+#Exercise
+
+In your groups create single choice mulitple (4) choice questions on Ygritte in files called test1.txt, test2.txt etc...
+
 #Week 8
 
 <br>1 . [PHP Coding Standards](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
