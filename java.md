@@ -1,3 +1,10 @@
+# Week 12
+
+```
+cat /home/share/assessments/java/readme.txt
+firefox /home/share/assessments/java/umll023.pdf
+```
+
 # Week 11
 
 1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
