@@ -1,3 +1,17 @@
+# Week 13
+
+<br>1 . [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
+<br>2 . [RitePrice scenario](https://docs.google.com/document/d/1UpPiSM-FM419uq4TGYwu3sv_oFBtG0l_cS3jlbBHayo/edit?usp=sharing)
+
+## Exercises
+
+In your groups complete the following for both of the scenarios above.
+
+<br>1 . Create CRC cards.
+<br>2 . Create a System Level Use Case Diagram
+<br>3 . For each use case identified in Exercise 2 create a use case scenario for best case scenario with triggers, pre/post conditions. Alternative or exceptional behaviour must be included in at least one use case scenario. 
+
+
 # Week 12
 
 ```
