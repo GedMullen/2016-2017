@@ -1,3 +1,7 @@
+# Week 14
+<br>1 . [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
+<br>2 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+
 # Week 13
 
 <br>1 . [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
