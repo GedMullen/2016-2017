@@ -3,9 +3,11 @@
 <br>2 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 <br>4 . [KitBuildIt CRC Answers](https://docs.google.com/document/d/11oA-s1ZZjbHmFfEW8533Nkb5umgPt2k9c8dmuT_35TE/edit?usp=sharing)
 <br>5 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
-
+<br>6 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
 ## Exercises
-In your groups create class diagrams from the CRC cards you created in week 13 for KitBuildIt and RitePrice.
+
+<br>1 . In your groups create class diagrams from the CRC cards you created in week 13 for KitBuildIt and RitePrice.
+<br>2 . Create a project in Eclipse on Ygritte called "uml2java" and Implement your detailed class diagrams in Java.
 
 # Week 13
 
