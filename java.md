@@ -2,9 +2,9 @@
 <br>1 . [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
 <br>2 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 <br>4 . [KitBuildIt CRC Answers](https://docs.google.com/document/d/11oA-s1ZZjbHmFfEW8533Nkb5umgPt2k9c8dmuT_35TE/edit?usp=sharing)
-## Exercises
 <br>5 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 
+## Exercises
 In your groups create class diagrams from the CRC cards you created in week 13 for KitBuildIt and RitePrice.
 
 # Week 13
