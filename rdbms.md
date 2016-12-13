@@ -1,4 +1,4 @@
-#Week 1 
+#Week 1 & 2 
 <br>1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
 <br> 2 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 3 . [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
@@ -7,3 +7,4 @@
 <br> 6 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
 <br> 7 . [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 <br> 8 . [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
+<br> 9 . [SQL Tutorial](http://www.w3schools.com/sql/)
