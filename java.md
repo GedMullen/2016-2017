@@ -8,7 +8,8 @@
 
 <br>1 . In your groups create class diagrams from the CRC cards you created in week 13 for KitBuildIt and RitePrice.
 <br>2 . Create a project in Eclipse on Ygritte called "uml2java" and Implement your detailed class diagrams in Java.
-
+<br>3 . Write test code to populate your domain objects.
+ 
 # Week 13
 
 <br>1 . [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
