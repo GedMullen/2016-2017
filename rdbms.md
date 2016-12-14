@@ -17,7 +17,7 @@ You can switch messages back on using:
 mesg y
 ```
 
-##Excercises
+##Exercises
 <br>1 . Make sure you change your password using the following command:
 ```
 passwd
