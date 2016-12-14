@@ -8,3 +8,15 @@
 <br> 7 . [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 <br> 8 . [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
 <br> 9 . [SQL Tutorial](http://www.w3schools.com/sql/)
+
+##Excercises
+<br>1 . Make sure you change your password using the following command:
+```
+passwd
+```
+<br>2 . In groups - study the [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html) and identify what information you can derive from the database e.g. the oldest employee etc. Document you findings on Ygritte in a file called employees.txt. You can use gedit to edit the file:
+```
+gedit employees.txt
+```
+
+
