@@ -11,8 +11,8 @@ mysql> select * from employees limit 10;
 mkdir sqlexercises
 cd sqlexercises
 gedit test.sql
-select * from employees limit 10
-ged@ygritte:~$ mysql -t -u student employees < test.sql
+select * from employees limit 10;
+you@ygritte:~$ mysql -t -u student employees < test.sql
 ```
 
 <br>4 . [Select](http://www.w3schools.com/sql/sql_select.asp)
