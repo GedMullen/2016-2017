@@ -10,7 +10,7 @@
 <br>8 . [Networks](https://docs.google.com/presentation/d/1z2BuiiUoBmTc6jAY1RJUW9VuegsQAuZpS-YxiDsV9Ds/edit?usp=docslist_api)
 ```
 firefox /home/share/assessments/java/mobilel01.pdf
-firefox /home/share/assessments/java/mobilel01icheck.pdf
+firefox /home/share/assessments/java/mobilel01check.pdf
 ```
 
 # Week 15
