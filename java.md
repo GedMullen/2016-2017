@@ -8,6 +8,10 @@
 <br>6 . [Native v Web Apps](https://docs.google.com/presentation/d/1xQCI7S7X_4rVDZWJ8ZWuXp1oHm4957Jv9leLL_kAvOg/edit?usp=docslist_api)
 <br>7 . [Security And Legislation](https://docs.google.com/presentation/d/19Hok8rf60JAQLhROpDj0E4vBtJSE2gR5d-WJrzKE-SI/edit?usp=docslist_api)
 <br>8 . [Networks](https://docs.google.com/presentation/d/1z2BuiiUoBmTc6jAY1RJUW9VuegsQAuZpS-YxiDsV9Ds/edit?usp=docslist_api)
+```
+firefox /home/share/assessments/java/mobilel01.pdf
+firefox /home/share/assessments/java/mobilel01icheck.pdf
+```
 
 # Week 15
 1 . [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
