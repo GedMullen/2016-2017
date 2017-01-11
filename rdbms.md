@@ -4,7 +4,7 @@
 <br>2 . [GitHub Home](https://github.com/)
 <br>3 . [Example Profile](https://github.com/marijnh)
 <br>4 . [GitHub CV Generator](http://resume.github.io/)
-
+<br>5 . [Mineplex Project Contributions](https://drive.google.com/file/d/0B7l9n3yk5ob0b0JCWXU5ZjY4dUk/view?ts=58170cea)
 ##Exercises
 
 1 . Complete these [GitHub Exercises](https://docs.google.com/document/d/1CWRBnj2pL_RIDAdgzoiZjm_fWHf_yznotVnGvG21lyk/edit?usp=sharing)
