@@ -1,3 +1,15 @@
+# Week 17
+<br>1 . [W3Schools HTML](http://www.w3schools.com/html/)
+<br>2 . [W3Schools CSS](http://www.w3schools.com/css/)
+<br>3 . [W3Schools JQuery Mobile](http://www.w3schools.com/jquerymobile/default.asp)
+<br>4 . [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api)
+<br>5 . [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api)
+
+## Exercises 
+1. Depending on your level of experience of HTML and CSS you may need to work through the W3Schools tutorials on HTML and CSS. 
+2. Create a web project on Ygritte using Eclipse called "jqmtutorial" and use it to run the code in the W3Schools tutorial on JQuery Mobile. 
+3. Create an eclipse project on Ygritte called "jqmexercises" and complete [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api) and [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api).
+
 # Week 16
 
 1 . [Mobile Apps Unit Descriptor](https://www.sqa.org.uk/files/hn/H17J34.pdf)
