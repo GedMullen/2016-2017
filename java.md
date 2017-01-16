@@ -6,10 +6,10 @@
 <br>5 . [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api)
 <br>6 . [Port Tunneling on Ygritte](https://docs.google.com/document/d/1yOERLFjVXk_Nw1y9CRYfYZA7HwQaGiQF-FY8HznM_14/edit?usp=sharing)
 ```
-firefox /home/share/assessments/java/mobilel02.pdf
-firefox /home/share/assessments/java/mobilel02check.pdf
-firefox /home/share/assessments/java/mobilel03.pdf
-firefox /home/share/assessments/java/mobilel03check.pdf
+firefox /home/share/assessments/java/mobilelo2.pdf
+firefox /home/share/assessments/java/mobilelo2check.pdf
+firefox /home/share/assessments/java/mobilelo3.pdf
+firefox /home/share/assessments/java/mobilelo3check.pdf
 ```
 
 ## Exercises 
