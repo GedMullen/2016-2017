@@ -5,6 +5,12 @@
 <br>4 . [Exercises Part A](https://drive.google.com/file/d/0B-CFaefA1v4RYnRlRFZKNlNPclE/view?usp=docslist_api)
 <br>5 . [Exercises Part B](https://drive.google.com/file/d/0B-CFaefA1v4Rd0V2WDVxUjlsdWM/view?usp=docslist_api)
 <br>6 . [Port Tunneling on Ygritte](https://docs.google.com/document/d/1yOERLFjVXk_Nw1y9CRYfYZA7HwQaGiQF-FY8HznM_14/edit?usp=sharing)
+```
+firefox /home/share/assessments/java/mobilel02.pdf
+firefox /home/share/assessments/java/mobilel02check.pdf
+firefox /home/share/assessments/java/mobilel03.pdf
+firefox /home/share/assessments/java/mobilel03check.pdf
+```
 
 ## Exercises 
 1. Depending on your level of experience of HTML and CSS you may need to work through the W3Schools tutorials on HTML and CSS. 
