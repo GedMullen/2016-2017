@@ -15,7 +15,7 @@
 ## Exercises 
 
 1 . Complete Week 17 Exercises,
-<br>2. Create an eclipse project on Ygritte called "jqmexerciseswk17" and complete [Week 18 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api) using [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api).
+<br>2. Create an eclipse project on Ygritte called "jqmexerciseswk18" and complete [Week 18 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api) using [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api).
 
 
 # Week 17
