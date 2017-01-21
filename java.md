@@ -1,3 +1,23 @@
+# Week 18
+
+1 . [Week 18 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api)
+<br>2 . [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api)
+<br>3 . [UI Design For Mobile Devices](https://drive.google.com/file/d/0B-CFaefA1v4RQXl2Q1A5M3hCRG8/view?usp=docslist_api)
+<br>4 . [Mobile V Desktop Traffic](https://www.clickz.com/clickz/column/2388915/why-mobile-web-still-matters-in-2015)
+<br>5 . [Designing Mobile Apps](https://drive.google.com/file/d/0B-CFaefA1v4RTU1pZWVUN1VodEE/view?usp=docslist_api)
+<br>6 . [Web App Tutorial](http://www.noupe.com/development/jquery-mobile-tutorial-creating-a-restaurant-picker-web-app.html)
+<br>7 . [Typograhy](http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/)
+<br>8 . [Mobile Design Typograhy](http://designmodo.com/mobile-design-typography/)
+<br>9 . [Colour Psychology For Mobile Apps](http://www.neobytesolutions.com/color-psychology-for-mobile-apps/)
+<br>10 . [Themes Tutorial](http://www.noupe.com/development/a-deeper-dive-into-jquery-mobile-themes-75416.html)
+<br>11 . [Example App Designs](http://www.1stwebdesigner.com/mobile-apps-designs/)
+
+## Exercises 
+
+1 . Complete Week 17 Exercises,
+<br>2. Create an eclipse project on Ygritte called "jqmexerciseswk17" and complete [Week 18 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api) using [Example Icons For Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRjhHaUp0NzdJeGM/view?usp=docslist_api).
+
+
 # Week 17
 <br>1 . [W3Schools HTML](http://www.w3schools.com/html/)
 <br>2 . [W3Schools CSS](http://www.w3schools.com/css/)
