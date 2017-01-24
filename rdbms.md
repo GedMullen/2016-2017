@@ -1,6 +1,11 @@
 # Week 6
 
 1 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
+<br>2 . Week 3 Answers:
+```
+vim /home/share/rdbms/wk3answers.sql
+mysql -t -u student <  /home/share/rdbms/wk3answers.sql | more 
+```
 
 ##Exercises
 1 . Read the tutorial on [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
