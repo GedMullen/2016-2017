@@ -89,7 +89,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>5 . Sort the output in 3 by DOB.
 <br>6 . List all employees whose DOB is 18/1/1962 (dates can be referenced as strings - birth_date = '1961-08-29')
 <br>7 . Who is the oldest employee?
-<br>8 . Who is the newest employee?
+<br>8 . Who is the newest (most recently hired) employee?
 <br>9 . List all female employees that were born in the 60s.
 <br>10 . List all male employees that were hired in the 80s.
 <br>11 . Count the number of employees in the employees database.
