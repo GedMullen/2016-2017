@@ -4,7 +4,7 @@
 <br>2 . Week 3 Answers:
 ```
 vim /home/share/rdbms/wk3answers.sql
-mysql -t -u student <  /home/share/rdbms/wk3answers.sql | more 
+mysql -t -u student employees < /home/share/rdbms/wk3answers.sql 
 ```
 
 ##Exercises
