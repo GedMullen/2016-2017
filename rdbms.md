@@ -95,7 +95,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>11 . Count the number of employees in the employees database.
 <br>12 . Count the number of female employees that were born in the 50s.
 <br>13 . What is the employee id of the person with the highest salary?
-<br>14 . Use the employee id identified in Q13 to locate the employee details from the salaries table. 
+<br>14 . Find the employee details (name DOB etc) of the person with the lowest salary (you will need to join the salaries and employees tables).
 <br>15 . Find the employee details of the person with the lowest salary.
 <br>16 . List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
 <!--
