@@ -1,15 +1,15 @@
 # Week 6
 
-1 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
-<br>2 . Week 3 Answers:
+<br>1 . Week 3 Answers:
 ```
 vim /home/share/rdbms/wk3answers.sql
 mysql -t -u student employees < /home/share/rdbms/wk3answers.sql 
 ```
-<br>3 . [Elliot uses Vim](https://drive.google.com/open?id=0B-CFaefA1v4RSC1XQTF5TVIyZHc)
-<br>4 . [Exiting Vim 1](https://drive.google.com/open?id=0B-CFaefA1v4RY1h5VjM2c3BZUGs)
-<br>5 . [Exiting Vim 2](https://drive.google.com/open?id=0B-CFaefA1v4RaHZrdVdlZEpPNUk)
-<br>4 . [Vim Cheat Sheet](https://vim.rtorr.com/)
+<br>2 . [Elliot uses Vim](https://drive.google.com/open?id=0B-CFaefA1v4RSC1XQTF5TVIyZHc)
+<br>3 . [Exiting Vim 1](https://drive.google.com/open?id=0B-CFaefA1v4RY1h5VjM2c3BZUGs)
+<br>4 . [Exiting Vim 2](https://drive.google.com/open?id=0B-CFaefA1v4RaHZrdVdlZEpPNUk)
+<br>5 . [Vim Cheat Sheet](https://vim.rtorr.com/)
+<br>6 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
 
 ##Exercises
 1 . Read the tutorial on [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
