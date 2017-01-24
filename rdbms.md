@@ -16,7 +16,7 @@ mysql -t -u student employees < /home/share/rdbms/wk3answers.sql
 <br>2 . Continue with the exercises from Week 5.
 <br>3 . Show the top 10 employees that have moved department the most. (use file wk6.sql) 
 <br>4 . Are there any employees that have the same first/last name and DOB?
-
+<br>5 . Familiarise yourself with [Vim](http://www.vim.org/)
 
 
 # Week 5
