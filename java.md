@@ -1,3 +1,11 @@
+# Week 19
+<br>1 . [Image Formats](http://www.sitepoint.com/gif-jpg-png-whats-difference/)
+<br>2 . [When to use PNGs](http://lifehacker.com/learn-when-to-use-jpeg-gif-or-png-with-this-graphic-1669336151)
+<br>3 . [Icon Sizes](http://iconhandbook.co.uk/reference/chart/android/)
+<br>4 . [Inkscape Tutorials](https://inkscape.org/en/learn/tutorials/)
+<br>5 . [WinScp](https://winscp.net/download/winscp576.zip) 
+
+
 # Week 18
 
 1 . [Week 18 Exercises](https://drive.google.com/file/d/0B-CFaefA1v4RRmF1Vmo4dHFOWDA/view?usp=docslist_api)
