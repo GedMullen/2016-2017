@@ -5,6 +5,9 @@
 <br>4 . [Inkscape Tutorials](https://inkscape.org/en/learn/tutorials/)
 <br>5 . [WinScp](https://winscp.net/download/winscp576.zip) 
 
+## Exercises 
+
+1 . In your groups create a presentation on the three main image formats. Find some examples for each of the formats.
 
 # Week 18
 
