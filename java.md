@@ -5,6 +5,7 @@
 <br>4 . [Icon Sizes](http://iconhandbook.co.uk/reference/chart/android/)
 <br>5 . [Inkscape Tutorials](https://inkscape.org/en/learn/tutorials/)
 <br>6 . [WinScp](https://winscp.net/download/winscp576.zip) 
+<br>7 . [How to Create Delicious Toast Icons](https://design.tutsplus.com/tutorials/how-to-create-delicious-toast-icons-in-adobe-illustrator--cms-25839)
 
 ## Exercises 
 

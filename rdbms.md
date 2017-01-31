@@ -1,3 +1,22 @@
+# Week 7
+
+1 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
+
+
+##Exercises
+
+Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and complete the following exercises:
+
+<br>1 . Display each last name in the employees table with a count of the number of occurrences of that last name.
+<br>2 . Display each first name in the employees table with a count of the number of occurrences of that first name.
+<br>3 . Use the ORDER BY and LIMIT clauses to identify the ten most common last names in the database.
+<br>4 . Use the ORDER BY and LIMIT clauses to identify the ten most common first names in the database.
+<br>5 . Write SQL to determine if there Is there anyone in the database that has the same first name/last name combination (group by first_name, last_name and count emp_no)?
+<br>6 . Show the top 10 employees that have moved department the most.
+<br>7 . Show the top 10 employees that have had the most changes in salary.
+<br>8 . Show the top 10 employees that have had the most changes in title. 
+<br>9 . Put the answers to your github SQL challenges on github. Check your challenge answers against other students.
+
 # Week 6
 
 <br>1 . Week 3 Answers:
