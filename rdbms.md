@@ -10,7 +10,7 @@ mysql -t -u student < /home/share/rdbms/wk5part1.sql
 
 ##Exercises
 
-Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and complete the following exercises:
+Complete previous weeks exercises first. Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and complete the following exercises:
 
 <br>1 . Display each last name in the employees table with a count of the number of occurrences of that last name.
 <br>2 . Display each first name in the employees table with a count of the number of occurrences of that first name.
