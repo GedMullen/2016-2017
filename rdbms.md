@@ -1,6 +1,11 @@
 # Week 7
 
-1 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
+1 . Week 5 Answers (Exercises 1-5)
+```
+vim /home/share/rdbms/week5part1.sql
+mysql -t -u student < /home/share/rdbms/wk5part1.sql 
+```
+<br>2 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
 
 
 ##Exercises
