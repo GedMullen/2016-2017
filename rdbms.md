@@ -6,11 +6,14 @@ vim /home/share/rdbms/wk5part1.sql
 mysql -t -u student < /home/share/rdbms/wk5part1.sql 
 ```
 <br>2 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
-<br>3 . [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
-<br>4 . [OWASP Top 10 Web Vulnerabilities](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013.pdf)
+<br>3 . [OWASP Top 10 Web Vulnerabilities](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013.pdf)
+<br>4 . [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
 
+##Group Exercise
 
-##Exercises
+In your groups pick one of these [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/) and prepare a short 5 minute presentation on it.
+
+##SQL Exercises
 
 Complete previous weeks exercises first. Create a file in your sqlexercises folder on Ygritte called "wk7.sql" and complete the following exercises:
 
