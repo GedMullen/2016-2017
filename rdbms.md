@@ -6,6 +6,7 @@ vim /home/share/rdbms/wk5part1.sql
 mysql -t -u student < /home/share/rdbms/wk5part1.sql 
 ```
 <br>2 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
+<br>3 . [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
 
 
 ##Exercises
