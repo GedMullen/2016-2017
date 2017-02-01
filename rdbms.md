@@ -7,6 +7,7 @@ mysql -t -u student < /home/share/rdbms/wk5part1.sql
 ```
 <br>2 . [SQL GROUP BY](http://www.w3schools.com/sql/sql_groupby.asp)
 <br>3 . [SQLi Examples](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
+<br>4 . [OWASP Top 10 Web Vulnerabilities](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/owasptop10/OWASP%20Top%2010%20-%202013.pdf)
 
 
 ##Exercises
