@@ -1,3 +1,47 @@
+<!-- 
+# Week 22
+[KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+
+## Exercises 
+
+
+# Week 21
+[KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+
+## Exercises 
+-->
+
+# Week 20
+
+```
+firefox /home/share/assessments/java/java.pdf
+firefox /home/share/assessments/java/javacheck.pdf
+```
+[KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+
+## Exercises 
+
+<br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
+<br>2 . Popuate instances of an Admin user and a Customer user. Test your code by overriding the toString() method on the Classes  and outputting the contents of the objects.
+<br>3 . Populate 3 Masonary House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
+<br>4 . Create a login prompt for username and password. If the user logs in as Admin display the following menu options:
+<br>
+<br>a) Add Customer
+<br>b) List All Customers
+<br>c) Add House Details
+<br>d) Edit House Details 
+<br>e) List All Houses
+<br>f) Record A Sale
+<br>g) Edit A Sale
+<br>h) List Sales
+<br>
+<br>If the user logs in as a customer display the following options:
+<br>
+<br>a) Edit Profile
+<br>b) Search For A House
+<br>
+<br>5 . Implement the "Add Customer" menu option.
+
 # Week 19
 <br>1 . [Image Formats](http://www.sitepoint.com/gif-jpg-png-whats-difference/)
 <br>2 . [When to use PNGs](http://lifehacker.com/learn-when-to-use-jpeg-gif-or-png-with-this-graphic-1669336151)
