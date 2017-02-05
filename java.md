@@ -35,7 +35,7 @@ firefox /home/share/assessments/java/javacheck.pdf
 <br>g) Edit A Sale
 <br>h) List Sales
 <br>
-<br>If the user logs in as a customer then check the username and password corresponds to one of the customer objects you created and output the menu below otherwise display "Invalid Login" and prompt the user again.
+<br>If the user logs in as a customer then check the username and password corresponds to one of the customer objects you created and output the menu below otherwise display "Invalid Login" and prompt the user again. This will require you to update your Customer class to contain a username and password.
 <br>
 <br>a) Edit Profile
 <br>b) Search For A House
