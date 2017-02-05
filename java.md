@@ -22,9 +22,9 @@ firefox /home/share/assessments/java/javacheck.pdf
 ## Exercises 
 
 <br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
-<br>2 . Populate instances of an Admin user and a Customer user. Test your code by overriding the toString() method on the Classes  and outputting the contents of the objects.
+<br>2 . Populate 2 instances of a a Customer. Test your code by overriding the toString() method on the Customer Class and outputting the contents of the objects.
 <br>3 . Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
-<br>4 . Create a login prompt for username and password. If the user logs in as Admin display the following menu options:
+<br>4 . Create a login prompt for username and password. If the user logs in with "admin" and "password" then display the following menu options:
 <br>
 <br>a) Add Customer
 <br>b) List All Customers
@@ -35,13 +35,13 @@ firefox /home/share/assessments/java/javacheck.pdf
 <br>g) Edit A Sale
 <br>h) List Sales
 <br>
-<br>If the user logs in as a customer display the following options:
+<br>If the user logs in as a customer then check the username and password corresponds to one of the customer objects you created and output the menu below otherwise display "Invalid Login" and prompt the user again.
 <br>
 <br>a) Edit Profile
 <br>b) Search For A House
 <br>
-<br>5 . Implement the "Add Customer" menu option.
-
+1 - Minimum Requirements 1-8
+<br>5 . Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
 # Week 19
 <br>1 . [Image Formats](http://www.sitepoint.com/gif-jpg-png-whats-difference/)
 <br>2 . [When to use PNGs](http://lifehacker.com/learn-when-to-use-jpeg-gif-or-png-with-this-graphic-1669336151)
