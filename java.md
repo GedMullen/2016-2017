@@ -40,7 +40,7 @@ firefox /home/share/assessments/java/javacheck.pdf
 <br>a) Edit Profile
 <br>b) Search For A House
 <br>
-1 - Minimum Requirements 1-8
+
 <br>5 . Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
 # Week 19
 <br>1 . [Image Formats](http://www.sitepoint.com/gif-jpg-png-whats-difference/)
