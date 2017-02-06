@@ -22,8 +22,8 @@ firefox /home/share/assessments/java/javacheck.pdf
 ## Exercises 
 
 <br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
-<br>2 . Populate 2 instances of a a Customer. Test your code by overriding the toString() method on the Customer Class and outputting the contents of the objects.
-<br>3 . Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
+<br>2 . Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
+<br>3 . Populate 2 instances of a a Customer. Test your code by overriding the toString() method on the Customer Class and outputting the contents of the objects.
 <br>4 . Create a login prompt for username and password. If the user logs in with "admin" and "password" then display the following menu options:
 <br>
 <br>a) Add Customer
