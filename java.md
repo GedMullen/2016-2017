@@ -19,8 +19,10 @@ firefox /home/share/assessments/java/javacheck.pdf
 ```
 <br> 1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br> 2 . [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+```
+cp /home/share/java/kitbuildit/wk20mon/* ~/workspace/wk20mon/src
+```
 ## Exercises 
-
 <br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
 <br>2 . Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
 <br>3 . Populate 2 instances of a a Customer. Test your code by overriding the toString() method on the Customer Class and outputting the contents of the objects.
