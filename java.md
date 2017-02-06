@@ -22,7 +22,7 @@ firefox /home/share/assessments/java/javacheck.pdf
 <br> 3 . [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
 ```
 cp /home/share/java/kitbuildit/wk20mon/* ~/workspace/wk20mon/src
-```
+``` 
 ## Exercises 
 <br>1 . Create a project in Eclipse called "kitbuildit" and implement the domain classes in the class diagram above.
 <br>2 . Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
