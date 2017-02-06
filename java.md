@@ -19,6 +19,7 @@ firefox /home/share/assessments/java/javacheck.pdf
 ```
 <br> 1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br> 2 . [Model View Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+<br> 3 . [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
 ```
 cp /home/share/java/kitbuildit/wk20mon/* ~/workspace/wk20mon/src
 ```
