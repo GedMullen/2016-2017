@@ -8,9 +8,19 @@
 # Week 21
 [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 
-## Exercises 
--->
+## KitBuildIt Exercises Continued
+<br>6 . Implement menu option - a) Add Customer
+<br>7 . Implement menu option - b) List All Customers
+<br>8 . Implement menu option - c) Add House Details
+<br>9 . Implement menu option - d) Edit House Details 
+<br>10 . Implement menu option - e) List All Houses
+<br>11 . Implement menu option - f) Record A Quote
+<br>12 . Implement menu option - g) Edit A Quote
+<br>13 . Implement menu option - h) List Quotes
+<br>14 . Implement menu option - a) Edit Profile
+<br>15 . Implement menu option - b) Search For A House
 
+-->
 # Week 20
 
 ```
@@ -34,9 +44,9 @@ cp /home/share/java/kitbuildit/wk20mon/* ~/workspace/wk20mon/src
 <br>c) Add House Details
 <br>d) Edit House Details 
 <br>e) List All Houses
-<br>f) Record A Sale
-<br>g) Edit A Sale
-<br>h) List Sales
+<br>f) Record A Quote
+<br>g) Edit A Quote
+<br>h) List Quotes
 <br>
 <br>If the user logs in as a customer then check the username and password corresponds to one of the customer objects you created and output the menu below otherwise display "Invalid Login" and prompt the user again. This will require you to update your Customer class to contain a username and password.
 <br>
