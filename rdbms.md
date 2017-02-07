@@ -8,7 +8,7 @@
 
 <br>1 . Complete the [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp) tutorial.
 <br>2 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
-<br>3 . Copy DVWA to your home drive using the following commands:
+<br>3 . Copy DVWA to your home directory using the following commands:
 
 ```
 mkdir webapps
