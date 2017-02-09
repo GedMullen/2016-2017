@@ -4,8 +4,9 @@
 
 ## Exercises 
 
+-->
 
-# Week 21
+# Week 21 & 22
 [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 
 ## KitBuildIt Exercises Continued
@@ -17,10 +18,9 @@
 <br>11 . Implement menu option - f) Record A Quote
 <br>12 . Implement menu option - g) Edit A Quote
 <br>13 . Implement menu option - h) List Quotes
-<br>14 . Implement menu option - a) Edit Profile
-<br>15 . Implement menu option - b) Search For A House
+<br>14 . Implement menu option (Customer) - a) Edit Profile
+<br>15 . Implement menu option (Customer) - b) Search For A House
 
--->
 # Week 20
 
 ```
