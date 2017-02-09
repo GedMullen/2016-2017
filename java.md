@@ -10,16 +10,15 @@
 [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 
 ## KitBuildIt Exercises Continued
-<br>6 . Implement menu option - a) Add Customer
-<br>7 . Implement menu option - b) List All Customers
-<br>8 . Implement menu option - c) Add House Details
-<br>9 . Implement menu option - d) Edit House Details 
-<br>10 . Implement menu option - e) List All Houses
-<br>11 . Implement menu option - f) Record A Quote
-<br>12 . Implement menu option - g) Edit A Quote
-<br>13 . Implement menu option - h) List Quotes
-<br>14 . Implement menu option (Customer) - a) Edit Profile
-<br>15 . Implement menu option (Customer) - b) Search For A House
+<br>6 . Implement menu option - b) List All Customers
+<br>7 . Implement menu option - c) Add House Details
+<br>8 . Implement menu option - d) Edit House Details 
+<br>9 . Implement menu option - e) List All Houses
+<br>10 . Implement menu option - f) Record A Quote
+<br>11 . Implement menu option - g) Edit A Quote
+<br>12 . Implement menu option - h) List Quotes
+<br>13 . Implement menu option (Customer) - a) Edit Profile
+<br>14 . Implement menu option (Customer) - b) Search For A House
 
 # Week 20
 
