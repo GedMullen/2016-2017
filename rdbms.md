@@ -1,3 +1,20 @@
+# Week 9
+
+1 . Week 5 Answers (All)
+```
+vim /home/share/rdbms/wk5answers.sql
+mysql -t -u student < /home/share/rdbms/wk5answers.sql 
+```
+## Exercises
+<br>1 . Copy and run the Week 5 answers and understand them (apart from Exercise 6!).
+<br>2 . Continue with Week 6 and 7 exercises. Create a wk6.sql and wk7.sql file in your sqlexercises folder. 
+<br>3 . Group exercise - In your groups create a presentation on a Relational Database Management System of your choice. Your presentation should answer the following questions:
+<br>How popular is the RDBMS?
+<br>What are the unique features of the RDBMS?
+<br>Which companies/organisations/systems use the RDBMS?
+<br>What is the history of the RDBMS?  
+
+
 # Week 8
 
 1 . [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp)
