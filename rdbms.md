@@ -23,7 +23,7 @@ SELECT * FROM employees LIMIT 10;
 <br>2 . Add insert statements to wk10.sql to add data to your table.
 <br>3 . Add select statements to wk10.sql to check that the data has been inserted correctly.
 <br>4 . Add update and delete statements.
-<br>5 . If you manage to complete the tasks above carry on with week 6 an 7 exercises.
+<br>5 . If you manage to complete the tasks above carry on with week 6 and 7 exercises.
  
 
 # Week 9
