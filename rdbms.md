@@ -19,9 +19,9 @@ DESCRIBE employees;
 SELECT * FROM employees LIMIT 10;
 ```
 ## Exercises
-<br>1 . Create a file in your sqlexercises folder called wk10.sql and wite a script to create an "employees" database table with the same column names and data types as the employees table in the [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html). Don't include any constraints such as primary keys at this stage. 
+<br>1 . Create a file in your sqlexercises folder called wk10.sql and write a script to create an "employees" database table with the same column names and data types as the employees table in the [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html). Don't include any constraints such as primary keys at this stage. 
 <br>2 . Add insert statements to wk10.sql to add data to your table.
-<br>3 . Add select statemets to wk10.sql to check that the data has been inserted correctly.
+<br>3 . Add select statements to wk10.sql to check that the data has been inserted correctly.
 <br>4 . Add update and delete statements.
 <br>5 . If you manage to complete the tasks above carry on with week 6 an 7 exercises.
  
