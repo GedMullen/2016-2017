@@ -1,13 +1,7 @@
-<!-- 
-# Week 22
-[KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
-
-## Exercises 
-
--->
 
 # Week 21 & 22
-[KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+<br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+<br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 
 ## KitBuildIt Exercises Continued
 <br>6 . Implement menu option - b) List All Customers
@@ -19,7 +13,7 @@
 <br>12 . Implement menu option - h) List Quotes
 <br>13 . Implement menu option (Customer) - a) Edit Profile
 <br>14 . Implement menu option (Customer) - b) Search For A House
-
+<br>15 . Add exception handling to your code so that if the user enters a string where a number is expected then an appropriate message is displayed. 
 # Week 20
 
 ```
