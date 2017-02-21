@@ -1,4 +1,10 @@
 
+#OU Entry Details
+
+<br>1 . [OU Routes for Computing](https://drive.google.com/open?id=0B-CFaefA1v4RakZLRUhrR2pBY3M)
+<br>2 . [OU Credit Tranfer](https://drive.google.com/open?id=0B-CFaefA1v4RVmxabWgyVktVc0U)
+<br>3 . [OU College Routes](https://drive.google.com/open?id=0B-CFaefA1v4Rd3VZMS0tdGpKY1k)
+
 # Week 21 & 22
 <br>1 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
 <br>2 . [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
