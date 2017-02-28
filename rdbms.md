@@ -1,4 +1,4 @@
-# Week 11 
+# Week 11 & 12 
 
 <br> 1 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
 <br> 2 . ["Crows Foot" Quick Reference](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
