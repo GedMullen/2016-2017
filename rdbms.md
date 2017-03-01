@@ -1,6 +1,6 @@
 # Graded Unit Revision
 
-[Software Development Mindmap](https://drive.google.com/drive/folders/0B-CFaefA1v4RfkJfcXZ6dFFqTEZlXzlxSURMT3ZBdmZLVUFVdW1FMmNkMUNCZmJ0UHpSN2s)
+[Software Development Mindmap](://drive.google.com/open?id=0B-CFaefA1v4RRDRiZjRDSVhMQk0)
 
 # Week 11 & 12 
 
