@@ -8,6 +8,7 @@
 
 ```
 vim /home/share/java/ooqs1.txt
+/home/studio/android-studio/bin/studio.sh
 ```
 
 #OU Entry Details
