@@ -14,6 +14,17 @@
 <br>4 . Insert data into your tables and write select statements to check your data.
 <br>5 . Continue to add the other tables (dept_manager etc) to your script.
 
+## Group Exercise
+
+What would be the impact of null values in the following columns of the employees database (document your answers in a file called null.txt)? 
+<ul>
+<li>employees.emp_no
+<li>employees.birth_date
+<li>employees.hire_date
+<li>salaries.to_date
+<li>titles.to_date
+</ul>
+
 # Week 10
 
 <br> 1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
