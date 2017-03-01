@@ -16,7 +16,8 @@
 
 ## Group Exercise
 
-What would be the impact of null values in the following columns of the employees database (document your answers in a file called null.txt)? 
+What would be the impact on the output of the queries you have create if null values were allowed in the following columns of the employees database (document your answers in a file called null.txt)? 
+
 <ul>
 <li>employees.emp_no
 <li>employees.birth_date
