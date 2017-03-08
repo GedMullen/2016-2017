@@ -4,6 +4,7 @@
 
 ```
 vim /home/share/rdbms/prog1.txt
+firefox hnd-computing.com
 ```
 
 # Week 11 & 12 
