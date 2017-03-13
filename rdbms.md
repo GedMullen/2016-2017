@@ -9,6 +9,8 @@ vim /home/share/assessments/rdbms/readme.txt
 firefox /home/share/assessments/rdbms/sql.pdf
 ```
 <br> 3 . [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0)
+<br> 4 . [Concat Function](http://www.tutorialspoint.com/mysql/mysql-concat-function.htm)
+<br> 5 . [Week 11&12 Answers](https://gist.github.com/GedMullen/4ed09c5853e730a88e8e)
 
 ## Exercises
 
