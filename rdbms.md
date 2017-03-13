@@ -1,6 +1,11 @@
-# Week 13
+# Block 3 Week 1
 
 <br> 1 . [Data Dictionary Example](https://drive.google.com/open?id=1nVBDarU8adeovVxJidhaFhwTbi-kuZ8UgWZKYGg79u0)
+```
+vim /home/share/assessments/rdbms/readme.txt
+```
+
+
 
 # Graded Unit Revision
 
