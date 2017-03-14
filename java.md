@@ -1,3 +1,36 @@
+#Graded Unit
+
+<br>1 . Assessment Schedule:
+```
+vim /home/share/assessments/graded/readme.txt
+```
+<br>2 . Unit Descriptor:
+```
+firefox /home/share/assessments/graded/descriptor.pdf
+```
+<br>3 . Task Description:
+```
+firefox /home/share/assessments/graded/task.pdf
+```
+<br>4 . Assessment Brief:
+```
+firefox /home/share/assessments/graded/brief.pdf
+```
+<br>5 . Marking Checklist:
+```
+firefox /home/share/assessments/graded/marking.pdf
+```
+<br>6 . [Tutorialspoint - JSP](https://www.tutorialspoint.com/jsp/)
+<br>6 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm)
+<br>7 . [UI Event Handling & Data Binding](https://drive.google.com/open?id=1LT8cAEE7fU51Iqkt5XA5SN9Nxx1PGrPuHuqj1F_9R-w)
+<br>8 . [Javadoc](http://www.tutorialspoint.com/java/java_documentation.htm)
+```
+cd /home/you/workspace/rugby/src
+mkdir doc
+javadoc -d doc *.java
+firefox /home/you/workspace/rugby/doc/index.html
+```
+
 #Week 23
 
 <br>1 . [OO Revision](https://docs.google.com/document/d/1CfBcOplYDJ-MOAefeLgYAIzs4Q5rPcfK0XeKWdAF4xU/edit?usp=docslist_api)
