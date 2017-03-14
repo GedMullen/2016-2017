@@ -1,4 +1,4 @@
-#Graded Unit
+# Graded Unit
 
 <br>1 . Assessment Schedule:
 ```
@@ -21,9 +21,9 @@ firefox /home/share/assessments/graded/brief.pdf
 firefox /home/share/assessments/graded/marking.pdf
 ```
 <br>6 . [Tutorialspoint - JSP](https://www.tutorialspoint.com/jsp/)
-<br>6 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm)
-<br>7 . [UI Event Handling & Data Binding](https://drive.google.com/open?id=1LT8cAEE7fU51Iqkt5XA5SN9Nxx1PGrPuHuqj1F_9R-w)
-<br>8 . [Javadoc](http://www.tutorialspoint.com/java/java_documentation.htm)
+<br>7 . [Tutorialspoint - Swing](http://www.tutorialspoint.com/swing/index.htm)
+<br>8 . [UI Event Handling & Data Binding](https://drive.google.com/open?id=1LT8cAEE7fU51Iqkt5XA5SN9Nxx1PGrPuHuqj1F_9R-w)
+<br>9 . [Javadoc](http://www.tutorialspoint.com/java/java_documentation.htm)
 ```
 cd /home/you/workspace/rugby/src
 mkdir doc
@@ -31,7 +31,7 @@ javadoc -d doc *.java
 firefox /home/you/workspace/rugby/doc/index.html
 ```
 
-#Week 23
+# Week 23
 
 <br>1 . [OO Revision](https://docs.google.com/document/d/1CfBcOplYDJ-MOAefeLgYAIzs4Q5rPcfK0XeKWdAF4xU/edit?usp=docslist_api)
 <br>2 . [Coupling and Cohesion](https://drive.google.com/file/d/0B-CFaefA1v4RWXNUeHR2M2tOMW8/view?usp=sharing)
@@ -44,7 +44,7 @@ vim /home/share/java/ooqs1.txt
 /home/studio/android-studio/bin/studio.sh
 ```
 
-#OU Entry Details
+# OU Entry Details
 
 <br>1 . [OU Routes for Computing](https://drive.google.com/open?id=0B-CFaefA1v4RakZLRUhrR2pBY3M)
 <br>2 . [OU Credit Tranfer](https://drive.google.com/open?id=0B-CFaefA1v4RVmxabWgyVktVc0U)
