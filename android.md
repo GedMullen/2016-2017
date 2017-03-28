@@ -1,3 +1,19 @@
+# Week 2
+
+1 . [Week 1 answer](https://gist.github.com/GedMullen/59e62a564e4aaf6acbca)
+<br> 2 . [Validating XML](http://www.w3schools.com/xml/xml_validator.asp)
+<br> 3 . [DTDs](http://www.w3schools.com/xml/xml_dtd.asp)
+<br> 4 . [DTD Tutorial](http://www.w3schools.com/xml/xml_dtd_intro.asp)
+<br> 5 . [Creating/Editing XML files in Eclipse](http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.wst.xmleditor.doc.user%2Ftopics%2Ftxedttag.html)
+
+## Exercises
+
+<br> 1 . Add another 2 Invoice items to the invoice.xml file in the XMLExamples project in Eclipse that contains different data and a date in a UK format. Make sure that the XML file still validates against the invoice.dtd file. 
+<br> 2 . Modify the invoice.xml and invoice.dtd files in the XMLExamples project in eclipse so that a zip OR postcode can be specified. Add another Invoice element to test your modification. 
+<br> 3 . Change the name and phone attributes to elements. Test your modifications.
+<br> 4 . Add a delivery address element.
+<br> 5 . Modify the xml and dtd to allow for multiple invoices in the one XML file. 
+
 # Week 1
 
 <br>1 . Assessment Schedule:
