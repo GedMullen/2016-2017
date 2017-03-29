@@ -8,6 +8,7 @@
 <br> 5 . XML Assessment 2
 ```
 firefox /home/share/assessments/android/lo2xml.pdf 
+cp /home/share/assessments/android/ass2.xml . 
 ```
 
 ## Exercises
