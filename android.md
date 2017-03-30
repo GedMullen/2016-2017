@@ -7,7 +7,7 @@
 <br> 5 . [Creating/Editing XML files in Eclipse](http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.wst.xmleditor.doc.user%2Ftopics%2Ftxedttag.html)
 <br> 6 . XML Assessment 2
 <br> 7 . [Using XSL With Eclipse ](http://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.wst.xsl.doc%2Fhtml%2Flaunching%2Flaunching.html)
-<br> 8 . [XSLT Tutorial](http://www.w3schools.com/xsl/)
+<br> 8 . [XSLT Tutorial](https://www.w3schools.com/xml/xsl_intro.asp)
 ```
 firefox /home/share/assessments/android/lo2xml.pdf 
 cp /home/share/assessments/android/ass2.xml . 
