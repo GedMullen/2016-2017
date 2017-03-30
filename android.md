@@ -11,6 +11,8 @@
 ```
 firefox /home/share/assessments/android/lo2xml.pdf 
 cp /home/share/assessments/android/ass2.xml . 
+firefox /home/share/assessments/android/lo3xml.pdf 
+cp /home/share/assessments/android/ass3.xml . 
 ```
 
 ## Exercises
