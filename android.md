@@ -5,7 +5,9 @@
 <br> 3 . [DTDs](http://www.w3schools.com/xml/xml_dtd.asp)
 <br> 4 . [DTD Tutorial](http://www.w3schools.com/xml/xml_dtd_intro.asp)
 <br> 5 . [Creating/Editing XML files in Eclipse](http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.wst.xmleditor.doc.user%2Ftopics%2Ftxedttag.html)
-<br> 5 . XML Assessment 2
+<br> 6 . XML Assessment 2
+<br> 7 . [Using XSL With Eclipse ](http://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.wst.xsl.doc%2Fhtml%2Flaunching%2Flaunching.html)
+<br> 8 . [XSLT Tutorial](http://www.w3schools.com/xsl/)
 ```
 firefox /home/share/assessments/android/lo2xml.pdf 
 cp /home/share/assessments/android/ass2.xml . 
