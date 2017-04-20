@@ -1,7 +1,7 @@
 # Block 3 Week 3
 
 <br>1 . [Database Design Tutorial](https://www.tutorialspoint.com/dbms/)
-
+<br>2 . [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
 <!--
 https://www.youtube.com/watch?v=KSZSG-TbhiA
 -->
