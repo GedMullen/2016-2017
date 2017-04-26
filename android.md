@@ -1,7 +1,7 @@
 # Week 4
 1 . Android report assessment:
 ```
-firefox /home/share/assessments/android/lo2xml.pdf 
+firefox /home/share/assessments/android/mobile.pdf 
 ```
 # Week 2
 
