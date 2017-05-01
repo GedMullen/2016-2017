@@ -1,3 +1,69 @@
+
+<!--
+# Week 18
+
+
+
+1 . [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
+
+
+# Week 17
+
+1 . [Normalisation](http://www.sqa.org.uk/e-learning/MDBS01CD/page_20.htm)
+<br>2 . [Normalisation Guide 2](http://www.quepublishing.com/articles/article.aspx?p=27785)
+<br>3 . [Normalisation Guide 3](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+
+## Exercises
+
+1 . Study the following [example](http://www.sqa.org.uk/e-learning/MDBS01CD/page_26.htm) and ask if you have questions.
+<br>2 . SQA Normalisation [Question 1](http://www.sqa.org.uk/e-learning/MDBS01CD/page_35.htm)
+<br>3 . SQA Normalisation [Question 2](http://www.sqa.org.uk/e-learning/MDBS01CD/page_36.htm)
+<br>4 . [More Normalisation Questions (with answers)](https://cs.senecac.on.ca/~dbs201/pages/Normalization_Practice.htm)
+
+# Week 16
+
+1 . [Chess Club](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
+<br>2 . [Garage](https://drive.google.com/open?id=0B-CFaefA1v4RdXpCeE9YYnQ3VlE)
+<br>3 . [Cinema](https://drive.google.com/open?id=0B-CFaefA1v4RNThLZ2xzWDc4ME0)
+<br>4 . [Caravan](https://drive.google.com/open?id=0B-CFaefA1v4RXzF3NERPaUtJYjQ)
+<br>5 . [Bus Timetable](https://drive.google.com/open?id=0B-CFaefA1v4RdG5GcUVaYTNtUTQ)
+<br>6 . [Gelncaldy College ERM Answer](https://drive.google.com/open?id=0B-CFaefA1v4Ra0hnakQ1MmpWY3c)
+
+## Exercises
+
+1 . Continue with Exercise 2 from week 15.
+<br>2 . [Gelncaldy College ERM Exercise](https://drive.google.com/open?id=1VROyQv4qqRK9uyzXGJf8cNlNrizrcYhNzH_zXb2V8I4)
+
+# Week 15
+
+1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+<br>2 . [Employees Conceptual](https://docs.google.com/document/d/13ciUimLe1DHgF9qM98Qv_lJnnsygEvSiqfvgYQ7dkBA/pub)
+<br>3 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>4 . [Assessment Schedule](https://docs.google.com/document/d/1KO7tyPs0YO1ES2W3C4Gjoh6IHAyClhv92J93sMLWvLs/pub)
+<br>5 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>6 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+
+## Exercises
+
+1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be known at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
+<br>2 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
+
+# Week 10 
+-->
+# Block 3 Week 5
+
+1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
+<br>2 . [Employees Conceptual](https://docs.google.com/document/d/13ciUimLe1DHgF9qM98Qv_lJnnsygEvSiqfvgYQ7dkBA/pub)
+<br>3 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>4 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>5 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+
+## Exercises
+
+1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be known at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
+<br>2 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
+
+
 # Block 3 Week 3
 
 <br>1 . [Database Design Tutorial](https://www.tutorialspoint.com/dbms/)
