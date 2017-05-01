@@ -53,10 +53,9 @@
 # Block 3 Week 5
 
 1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
-<br>2 . [Employees Conceptual](https://docs.google.com/document/d/13ciUimLe1DHgF9qM98Qv_lJnnsygEvSiqfvgYQ7dkBA/pub)
-<br>3 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
-<br>4 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
-<br>5 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+<br>2 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
+<br>3 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
+<br>4 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
 
 ## Exercises
 
