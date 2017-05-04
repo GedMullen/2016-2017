@@ -2,6 +2,7 @@
 
 1 . [Introduction to Android](https://docs.google.com/presentation/d/1v3cFgXF55k_Pqv0fOaEDTcNAq9N5cAO2t5-bD7Ye3Bw/pub?start=false&loop=false&delayms=60000)
 <br>2 . [Android History](https://en.wikipedia.org/wiki/Android_version_history)
+<br>3 . [Android Market Share](https://qz.com/826672/android-goog-just-hit-a-record-88-market-share-of-all-smartphones/)
 
 # Week 4
 1 . Android report assessment:
