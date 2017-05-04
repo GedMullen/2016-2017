@@ -56,6 +56,10 @@
 <br>2 . [Introduction To ERM](https://drive.google.com/open?id=0B-CFaefA1v4RZkpXSURLT1ZnSm8)
 <br>3 . [Database Design Tutorial](http://en.tekstenuitleg.net/articles/software/database-design-tutorial/intro.html)
 <br>4 . [Example ERDs](http://databaseanswers.org/data_models/index.htm)
+<br>5 . LO2 Assessment:
+```
+firefox /home/share/assessments/rdbms/acme.pdf
+```
 <!--
 <br>5 . [Introduction To Database Modelling](https://m.youtube.com/watch?v=rBCXhbA3hPg)
 id cols and select data types https://m.youtube.com/watch?v=rPDtXErt_rM
