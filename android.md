@@ -1,6 +1,12 @@
 # Week 6
 
 1 . [Google VR Example ](http://burgler-ferret-12012.netlify.com/vr2/googlevr.html)
+```
+mkdir vr
+cd vr
+cp -r /home/share/vr/* .
+```
+
 # Week 5
 
 1 . [Introduction to Android](https://docs.google.com/presentation/d/1v3cFgXF55k_Pqv0fOaEDTcNAq9N5cAO2t5-bD7Ye3Bw/pub?start=false&loop=false&delayms=60000)
