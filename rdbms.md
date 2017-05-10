@@ -50,6 +50,28 @@
 
 # Week 10 
 -->
+# Block 3 Week 6
+
+1 . [Chess Club Answer](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
+<br>2 . [Garage](https://drive.google.com/open?id=0B-CFaefA1v4RdXpCeE9YYnQ3VlE)
+<br>3 . [Cinema](https://drive.google.com/open?id=0B-CFaefA1v4RNThLZ2xzWDc4ME0)
+<br>4 . [Caravan](https://drive.google.com/open?id=0B-CFaefA1v4RXzF3NERPaUtJYjQ)
+<br>5 . [Bus Timetable](https://drive.google.com/open?id=0B-CFaefA1v4RdG5GcUVaYTNtUTQ)
+<br>7 . [Gelncaldy College ERM Answer](https://drive.google.com/open?id=0B-CFaefA1v4Ra0hnakQ1MmpWY3c)
+<br>8 . [Normalisation](http://www.sqa.org.uk/e-learning/MDBS01CD/page_20.htm)
+<br>9 . [Normalisation Guide 2](http://www.quepublishing.com/articles/article.aspx?p=27785)
+<br>10 . [Normalisation Guide 3](http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+
+## Exercises
+
+
+<br>1 . [Gelncaldy College ERM Exercise](https://drive.google.com/open?id=1VROyQv4qqRK9uyzXGJf8cNlNrizrcYhNzH_zXb2V8I4)
+<BR>2 . Study the following [example](http://www.sqa.org.uk/e-learning/MDBS01CD/page_26.htm) and ask if you have questions.
+<br>3 . SQA Normalisation [Question 1](http://www.sqa.org.uk/e-learning/MDBS01CD/page_35.htm)
+<br>4 . SQA Normalisation [Question 2](http://www.sqa.org.uk/e-learning/MDBS01CD/page_36.htm)
+<br>5 . [More Normalisation Questions (with answers)](https://cs.senecac.on.ca/~dbs201/pages/Normalization_Practice.htm)
+
+
 # Block 3 Week 5
 
 1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
