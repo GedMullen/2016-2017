@@ -23,7 +23,7 @@ ant release
 ```
 ls bin
 ```
-<br>6. Only signed app can be installed in an Android device. You can sign an apk with your own keystore.
+<br>6. Only a signed app can be installed in an Android device. You can sign an apk with your own keystore.
 ```
 keytool -genkey -v -keystore mykey.keystore -alias mykeyname -keyalg RSA -keysize 2048 -validity 365
 ```
@@ -42,7 +42,22 @@ ant release
 ls bin
 ```
 Your app should appear as ```HelloApp-release.apk```.
-<br>8 . Copy the apk file to your android device and install it. 
+
+<br>8. Copy the apk file to your android device and install it. 
+
+<br>9. [Basic Structure of an Android Project](https://www.codeproject.com/Articles/395614/Basic-structure-of-an-Android-project)
+
+##Exercises
+
+<br>1. Change the name of your app.
+<br>2. Change the launcher icon for your app.
+<br>3. Add another TextView object to your main.xml layout file. 
+<br>4. Add other objects to your layout file. 
+
+
+
+
+
 
 # Week 6
 
