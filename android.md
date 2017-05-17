@@ -47,7 +47,7 @@ Your app should appear as ```HelloApp-release.apk```.
 
 <br>9. [Basic Structure of an Android Project](https://www.codeproject.com/Articles/395614/Basic-structure-of-an-Android-project)
 
-##Exercises
+## Exercises
 
 <br>1. Change the name of your app.
 <br>2. Change the launcher icon for your app.
