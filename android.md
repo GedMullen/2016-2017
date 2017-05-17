@@ -1,3 +1,49 @@
+# Week 7
+
+<br>1. Android SDK command line:
+```
+android -h
+```
+<br>2. Create a directory for your example android project:
+```
+mkdir androidstuff
+cd androidstuff/
+```
+<br>3 . Create an android project:
+```
+android create project --target 1 --name HelloApp --path ./helloapp --activity MainActivity --package com.example.helloapp
+```
+<br>4 . Create a build file and build the app:
+```
+cd helloapp/
+android update project --path .
+ant release
+```
+<br>5. The app will be created at bin/HelloApp-release-unsigned.apk.
+```
+ls bin
+```
+<br>6. Only signed app can be installed in an Android device. You can sign an apk with your own keystore.
+```
+keytool -genkey -v -keystore mykey.keystore -alias mykeyname -keyalg RSA -keysize 2048 -validity 365
+```
+Update ant.properties with your keystore info:
+```
+vim ant.properties
+
+key.store=<keystore file location>
+key.alias=<alias name>
+key.store.password=<keystore password>
+key.alias.password=<alias password>
+```
+<br>7. Build a signed app:
+```
+ant release
+ls bin
+```
+Your app should appear as ```HelloApp-release.apk```.
+<br>8 . Copy the apk file to your android device and install it. 
+
 # Week 6
 
 1 . [Google VR Example ](http://burgler-ferret-12012.netlify.com/vr2/googlevr.html)
