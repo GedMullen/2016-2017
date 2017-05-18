@@ -32,10 +32,10 @@ Update ant.properties with your keystore info:
 ```
 vim ant.properties
 
-key.store=<keystore file location>
-key.alias=<alias name>
-key.store.password=<keystore password>
-key.alias.password=<alias password>
+key.store=mykey.keystore
+key.alias=mykeyname
+key.store.password=password
+key.alias.password=password
 ```
 <br>7. Build a signed app:
 ```
