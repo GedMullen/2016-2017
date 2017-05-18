@@ -2,6 +2,7 @@
 
 <br>1. Android SDK command line:
 ```
+export PATH=$PATH:/home/studio/Android/Sdk/tools
 android -h
 ```
 <br>2. Create a directory for your example android project:
