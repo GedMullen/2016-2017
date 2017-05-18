@@ -50,7 +50,7 @@
 
 # Week 10 
 -->
-# Block 3 Week 6
+# Block 3 Week 6 & 7
 
 1 . [Chess Club Answer](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
 <br>2 . [Garage](https://drive.google.com/open?id=0B-CFaefA1v4RdXpCeE9YYnQ3VlE)
