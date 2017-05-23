@@ -1,3 +1,27 @@
+#Week 8
+
+<br>1. Native app design and build assessment:
+```
+firefox /home/share/assessments/android/android.pdf 
+```
+<br>2. Creating an Android emulator on Ygritte:
+```
+cd
+cp -r /home/studio/Android .
+cd Android/Sdk/tools
+./android list target
+./android create avd -n yourname -t 1 --abi "default/armeabi-v7a"
+./emulator -avd yourname
+```
+<br>3. Installing an apk on your emulator:
+```
+adb -s "emulator-5554" install HelloApp-release.apk
+```
+## Exercise
+
+Follow this [Tutorial](https://developer.android.com/training/basics/firstapp/index.html) to create a basic Android app.
+
+
 # Week 7
 
 <br>1. Android SDK command line:
