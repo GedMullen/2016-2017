@@ -55,7 +55,6 @@
 <br>1. [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
 <br>2. [RDBMS Questions 1](https://docs.google.com/document/d/13k76hD465jPQNqL91-PLVys0TpqfTyXyoCYPE84jZQM/edit?usp=drivesdk)
 <br>3. [RDBMS Questions 2](https://docs.google.com/document/d/1r3nuDsRRIRqjvZDufGjNfOiZbdB8RO5MsE7vYU0abZ4/edit?usp=drivesdk)
-<br>4. [Normalisation With Simon](https://www.youtube.com/watch?v=KSZSG-TbhiA&list=PLYlr48f6CaXtlkXcGMUD49wHmvC7ZTiD0&index=21)
 
 # Block 3 Week 6 & 7
 
