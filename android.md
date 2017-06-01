@@ -1,3 +1,7 @@
+# Week 9
+
+<br>1. [Android Splash Screens](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
+
 # Week 8
 
 <br>1. Native app design and build assessment:
