@@ -31,6 +31,11 @@ mkdir doc
 javadoc -d doc *.java
 firefox /home/you/workspace/rugby/doc/index.html
 ```
+<br>10 . Evaluation questions:
+```
+vim /home/share/assessments/graded/eval.txt
+```
+
 
 # Week 23
 
