@@ -55,7 +55,7 @@
 <br>1. [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
 <br>2. [RDBMS Questions 1](https://docs.google.com/document/d/13k76hD465jPQNqL91-PLVys0TpqfTyXyoCYPE84jZQM/edit?usp=drivesdk)
 <br>3. [RDBMS Questions 2](https://docs.google.com/document/d/1r3nuDsRRIRqjvZDufGjNfOiZbdB8RO5MsE7vYU0abZ4/edit?usp=drivesdk)
-
+<br>4. [Normalisation Summary](https://www.sqa.org.uk/e-learning/MDBS01CD/page_34.htm)
 # Block 3 Week 6 & 7
 
 1 . [Chess Club Answer](https://drive.google.com/open?id=0B-CFaefA1v4RTFRQUV90eUhsNEk)
