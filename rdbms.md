@@ -55,7 +55,9 @@
 <br>1. Revision Answers:
 ```
 vim /home/share/assessments/rdbms/rdbmsrev.txt
+vim /home/share/assessments/rdbms/rdbmsmc.txt
 ```
+
 # Block 3 Week 8 & 9 
 
 <br>1. [Resolving Many-To-Many Relationships](https://drive.google.com/open?id=1kpIthRghqHO-vStDC3TZYGqiQxMCl6JstgNUbMPVoeY)
