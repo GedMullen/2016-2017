@@ -49,7 +49,6 @@
 <br>2 . Complete the following [conceptual ERM exercises](https://docs.google.com/document/d/1Bb0M0Q-8o-zHqi57ZejlbIcNXlG1pIg7sde5DbnCD0U/edit?usp=sharing)
 
 # Week 10 
--->
 # Block 3 Week 10
 
 <br>1. Revision Answers:
@@ -96,10 +95,8 @@ vim /home/share/assessments/rdbms/rdbmsmc.txt
 ```
 firefox /home/share/assessments/rdbms/acme.pdf
 ```
-<!--
 <br>5 . [Introduction To Database Modelling](https://m.youtube.com/watch?v=rBCXhbA3hPg)
 id cols and select data types https://m.youtube.com/watch?v=rPDtXErt_rM
--->
 ## Exercises
 
 1 . In your groups - you are required to write a project brief for the example Employees database. Imagine that the database is yet to be created and you are an business user writing a requirements document. All you will be aware of is *what* you want to store and *why* you want to store it. Exact field details will not be known at this stage. Write the requirements in a file on Ygritte called "requirements.txt" as a series of bullet points.  
@@ -110,9 +107,7 @@ id cols and select data types https://m.youtube.com/watch?v=rPDtXErt_rM
 
 <br>1 . [Database Design Tutorial](https://www.tutorialspoint.com/dbms/)
 <br>2 . [Oracle Academy](http://ilearning.oracle.com/ilearn/en/learner/jsp/login.jsp?site=OracleAcad)
-<!--
 https://www.youtube.com/watch?v=KSZSG-TbhiA
--->
 # Block 3 Week 1 & 2
 
 <br> 1 . Assessment schedule:
@@ -394,11 +389,9 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>14 . Find the employee details (name DOB etc) of the person with the highest salary (you will need to join the salaries and employees tables).
 <br>15 . Find the employee details of the person with the lowest salary.
 <br>16 . List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
-<!--
 <br>12 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
 <br>12 . Create an alias for the pension column in Q5 called “Pension”.
 <br>12 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
--->
 #Week 1 & 2 
 <br>1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
 <br> 2 . [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
@@ -427,5 +420,5 @@ passwd
 ```
 gedit employees.txt
 ```
-
+-->
 
