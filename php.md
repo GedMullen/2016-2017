@@ -1,3 +1,4 @@
+<!--
 [KYOCodes Competition](https://drive.google.com/open?id=0B-CFaefA1v4RZzIyZkZ3ckRhd0k)
 #Week 11
 
@@ -236,4 +237,4 @@ php -S localhost:8???
 <br>1 . Run eclipse from the command line. Familiarise yourself with the IDE using the help menus: Help->Help Contents->Workbench User Guide. Create the HelloWorld program using Eclipse. 
 <br>2 . Start this [PHP Tutorial](http://www.w3schools.com/php/default.asp) and run some of the exercises on Ygritte using eclipse. 
 
-
+-->
