@@ -1,10 +1,3 @@
-# Week 9
-
-<br>1. [Android Splash Screens](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
-<br>2. [App Tutorial](https://www.youtube.com/watch?v=n21mXO1ASJM)
-<br>3. [Android Layouts](https://developer.android.com/guide/topics/ui/declaring-layout.html)
-<br>4. [Signing Your App](https://developer.android.com/studio/publish/app-signing.html#release-mode)
-
 # Week 8
 
 <br>1. Native app design and build assessment:
